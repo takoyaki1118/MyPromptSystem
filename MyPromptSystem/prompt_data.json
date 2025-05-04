@@ -1,0 +1,54 @@
+{
+    "Character": {
+      "type": "selector",
+      "items": ["Character A", "Character B", "Character C", "Another Character"]
+    },
+    "Accessories": {
+      "type": "category_generator",
+      "pool": ["glasses", "hat", "scarf", "necklace", "earrings", "watch", "bracelet"],
+      "default_mode": "Random",
+      "default_count": 1
+    },
+    "Body Type": {
+      "type": "category_generator",
+      "pool": ["slim", "average", "athletic", "curvy", "petite", "muscular"],
+      "default_mode": "None",
+      "default_count": 1
+    },
+    "Background": {
+      "type": "category_generator",
+      "pool": ["cityscape", "forest", "beach", "mountain range", "sci-fi interior", "fantasy castle", "cafe", "library", "outer space", "underwater ruins"],
+      "default_mode": "Random",
+      "default_count": 1
+    },
+    "Clothing": {
+      "type": "category_generator",
+      "pool": ["casual outfit", "school uniform", "fantasy armor", "sci-fi suit", "formal dress", "business suit", "mage robe", "ninja garb", "steampunk attire"],
+      "default_mode": "Random",
+      "default_count": 1
+    },
+    "Pose": {
+      "type": "category_generator",
+      "pool": ["standing", "sitting", "walking", "running", "jumping", "leaning against wall", "looking at viewer", "looking away", "arms crossed", "hands on hips", "dynamic action pose"],
+      "default_mode": "Random",
+      "default_count": 1
+    },
+    "Composition": {
+      "type": "category_generator",
+      "pool": ["close-up shot", "medium shot", "full shot", "long shot", "cowboy shot", "low angle", "high angle", "eye level", "dutch angle", "overhead shot", "rule of thirds", "center frame", "symmetric composition", "leading lines", "depth of field", "bokeh", "from behind", "from side", "profile shot"],
+      "default_mode": "Random",
+      "default_count": 1
+    },
+    "Expression": {
+      "type": "category_generator",
+      "pool": ["smile", "laughing", "sad", "angry", "surprised", "neutral expression", "thinking", "crying", "shy", "smug", "bored", "disgusted", "scared", "confused", "happy", "closed eyes", "winking", "pouting", "serious expression", "content smile"],
+      "default_mode": "Random",
+      "default_count": 1
+    },
+    "Lighting": {
+      "type": "category_generator",
+      "pool": ["cinematic lighting", "dramatic lighting", "soft lighting", "studio lighting", "natural lighting", "sunlight", "moonlight", "golden hour lighting", "blue hour lighting", "rim lighting", "backlighting", "front lighting", "side lighting", "volumetric lighting", "god rays", "neon lighting", "ambient lighting", "Rembrandt lighting", "chiaroscuro", "hard lighting", "low key lighting", "high key lighting"],
+      "default_mode": "Random",
+      "default_count": 1
+    }
+  }
