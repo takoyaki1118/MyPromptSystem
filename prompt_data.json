@@ -2,14 +2,33 @@
   "nijisanji": {
     "type": "category_generator",
     "pool": [
-      "shiina yuika,nijisanji", "shishido akari,nijisanji", "rindou mikoto,nijisanji", "amamiya kokoro,nijisanji", "ienaga mugi,nijisanji", 
-      "Dola,nijisanji", "hoshikawa sara,nijisanji", "sister claire,nijisanji", "higuchi kaede,nijisanji", "lain paterson,nijisanji", "inui toko,nijisanji", 
-      "nui sociere,nijisanji", "furen e lustario,nijisanji", "shizuka rin,nijisanji", "moira,nijisanji", "kuramochi meruto,nijisanji", "matukai mao,nijisanji", 
-      "ruri shioriha,nijisanji", "ange katrina,nijisanji", "fuyuki hakase,nijisanji", "saku sasaki,nijisanji", "salome hyakumantenbara,nijisanji",
-      "ponto nei,nijisanji", "chigusa nishizono,nijisanji", "karuta yamagami,nijisanji", "honma himawari,nijisanji", "sophia valentine,nijisanji",
-      "fumi,nijisanji", "rika igarashi,nijisanji", "ratna petit,nijisanji", "makaino ririmu,nijisanji,loli", "yorumi rena,nijisanji",
-      "ishigami nozomi,nijisanji", "ars almal,nijisanji", "sukoya kana,nijisanji", "takamiya rion,nijisanji", "tsukino mito,nijisanji",
-      "lize helesta,nijisanji", "koshimizu toru, nijisanji", "machita chima,nijisanji", "sango suo,nijisanji", "elu,nijisanji"
+      "shiina yuika,nijisanji,pink hair,", "shishido akari,nijisanji,Green eyes,Red hair,", "rindou mikoto,nijisanji,light purple hair,", "amamiya kokoro,nijisanji,blue hair",
+      "ienaga mugi,nijisanji,Yellow eyes,Blonde hair", "Sakura Ritsuki,nijisanji,Green eyes,purple hair", "Yotsuha umise,nijisanji,Yellow eyes",
+      "Dola,nijisanji,Red hair,Red eyes", "hoshikawa sara,nijisanji,Red eye,Yellow eye,Blonde hair", "sister claire,nijisanji,light brown hair,Brown eyes",
+      "higuchi kaede,nijisanji,Purple eyes,Grey hair,", "lain paterson,nijisanji,Red hair", "inui toko,nijisanji,Yellow eye,Red eye,Brown hair", 
+      "nui sociere,nijisanji,Yellow eyes,Blonde hair", "furen e lustario,nijisanji,light brown hair,Red eyes", "shizuka rin,nijisanji,Yellow eyes,Blue hair",
+      "moira,nijisanji,Blue hair,Yellow eyes", "kuramochi meruto,nijisanji,Blue eyes,Pink hair", "matukai mao,nijisanji,Purple eyes,Grey hair", 
+      "ruri shioriha,nijisanji,Green eyes,Grey hair", "ange katrina,nijisanji,Red hair,Blue Eyes", "fuyuki hakase,nijisanji,Red eyes,White hair",
+      "saku sasaki,nijisanji,Pink hair,Pink eyes", "salome hyakumantenbara,nijisanji,Purple hair,Purple eyes",
+      "ponto nei,nijisanji,Blue hair,Blue eyes", "chigusa nishizono,nijisanji,Blue hair,Purple eyes", "karuta yamagami,nijisanji,Yellow eyes,Black hair",
+      "honma himawari,nijisanji,Green eyes,Orange hair", "sophia valentine,nijisanji,Grey hair","fumino tamaki,nijisanji,Cat ears,Green eyes,Brown hair",
+      "fumi,nijisanji,Brown hair,Yellow eyes", "rika igarashi,nijisanji,Green eyes,Brown hair", "ratna petit,nijisanji,Orange eyes,Orange hair",
+      "makaino ririmu,nijisanji,Red eyes,loli,Child,aged down", "yorumi rena,nijisanji,Red eyes,Split hair color",
+      "ishigami nozomi,nijisanji,Pink eyes,Grey eyes,Grey hair", "ars almal,nijisanji,Blue eyes,White hair", "sukoya kana,nijisanji,Grey hair,Pink eyes",
+      "takamiya rion,nijisanji,Blonde hair,purple eyes", "tsukino mito,nijisanji,Black hair,Blue eyes","luis cammy,nijisanji,Blonde hair,Red eyes",
+      "lize helesta,nijisanji,Multicolored hair,Purple eyes", "koshimizu toru, nijisanji,Purple eyes,Blue hair", "machita chima,nijisanji,Yellow eyes,Light brown hair",
+      "sango suo,nijisanji,Blue eyes,Pink hair", "elu,nijisanji,Gradient eyes,Grey hair","kaburaki roco,nijisanji,Blonde hair,Green eyes"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "hololive": {
+    "type": "category_generator",
+    "pool": [
+      "hoshimachi suisei,hololive,Blue eyes,Blue hair", "tokino sora,hololive,Brown hair,Blue eyes", "sakura miko,hololive,Green eyes,Pink hair",
+      "houshou marine,hololive,Red eye,Yellow eye,Red hair", "minato aqua,hololive,Purple eyes,Multicolored hair,Pink hair",
+      "gawr gura,hololive,Blue eyes", "oozora subaru,hololive", "murasaki shion,hololive,Grey hair", "ookami mio,hololive,Animal ears,Yellow eyes,Multicolored hair,Black hair",
+      "noel shirogane,hololive,Grey hair,Green eyes","natsuiro matsuri,hololive,Aqua eyes,Brown hair"
     ],
     "default_mode": "Random",
     "default_count": 1
@@ -17,9 +36,13 @@
   "idolmaster": {
       "type": "category_generator",
       "pool": [
-        "mayuzumi fuyuko (idolmaster)", "Komiya Kaho (idolmaster)", "nanakusa nichika (idolmaster)", "morino rinze (idolmaster)","fukuyama mai (idolmaster),loli",
-        "tanaka mamimi (idolmaster)", "higuchi madoka (idolmaster)", "akagi miria (idolmaster),loli", "ichihara nina (idolmaster), loli", "jougasaki rika (idolmaster),loli",
-        "honda mio (idolmaster)", "yumemi riamu (idolmaster)", "fukumaru koito (idolmaster),loli", "sonoda chiyoko (idolmaster)", "hachimiya meguru (idolmaster)"
+        "mayuzumi fuyuko (idolmaster),Black hair", "Komiya Kaho (idolmaster),Red hair,Red eyes", "nanakusa nichika (idolmaster),Green hair,Green eyes",
+        "morino rinze (idolmaster),Blue hair,Red eyes","fukuyama mai (idolmaster),Black hair,loli,Child,aged down",
+        "tanaka mamimi (idolmaster),Purple hair,Purple eyes", "higuchi madoka (idolmaster),Purple eyes,Brown hair", "akagi miria (idolmaster),Black hair,loli,Child,aged down",
+        "ichihara nina (idolmaster),Brown hair,Brown eyes, loli,Child,aged down", "jougasaki rika (idolmaster),Blonde hair,Green eyes,loli,Child,aged down",
+        "honda mio (idolmaster),Brown hair, Brown eyes", "yumemi riamu (idolmaster),Multicolored hair,Pink hair,", "fukumaru koito (idolmaster),Blue hair,Purple eyes,loli,Child,aged down",
+        "sonoda chiyoko (idolmaster),Brown hair,Red eyes", "hachimiya meguru (idolmaster),Yellow hair,Blue eyes","mika jougasaki(idolmaster),Pink hair,",
+        "sato shin(idolmaster),Blonde hair,Green eyes", "kogane tsukioka(idolmaster),Brown hair,Brown eyes", "tenka osaki(idolmaster),Red hair,Brown eyes,"
       ],
       "default_mode": "Random",
       "default_count": 1
@@ -27,9 +50,9 @@
   "AnimeCharacter": {
       "type": "category_generator",
       "pool": [
-        "yunyun (konosuba)", "Jouga Maya (Is the Order a Rabbit?), loli", "nekomusume (gegege no kitarou 6)", "kokkoro (princess connect!), loli",
-        "yamato (one piece)", "akimoto katherine reiko", "fujiwara chika", "uzaki hana", "musume (yuunama), loli", "misogi (princess connect!), loli",
-        "hestia (danmachi)", "Android 18 (Dragon Ball)", "Shizuka Minamoto", "Galko (Oshiete! Galko-chan)", "keke tang (Love Live! Superstar!!)", "yanagi uzaki", "kanna kamui, loli", 
+        "yunyun (konosuba)", "Jouga Maya (Is the Order a Rabbit?), loli,Child,aged down", "nekomusume (gegege no kitarou 6)", "kokkoro (princess connect!), loli,Child,aged down",
+        "yamato (one piece)", "akimoto katherine reiko", "fujiwara chika", "uzaki hana", "musume (yuunama), loli,Child,aged down", "misogi (princess connect!), loli,Child,aged down",
+        "hestia (danmachi)", "Android 18 (Dragon Ball)", "Minamoto Shizuka (Doraemon),loli,Child,aged down", "Galko (Oshiete! Galko-chan)", "keke tang (Love Live! Superstar!!)", "yanagi uzaki", "kanna kamui, loli,Child,aged down", 
         "Komi Shouko (Komi Can't Communicate)", "Shuuko Komi (Komi Can't Communicate)", "pecorine (princess connect!)", "karyl (princess connect!)", "chloe (princess connect!)",
         "nishikigi chisato", "nagatoro hayase", "inoue orihime (Bleach)", "toga himiko", "uzaki tsuki", "tsunade (naruto)", "takimoto hifumi (new game!)"
       ],
@@ -81,5 +104,21 @@
       ],
       "default_mode": "Random",
       "default_count": 1
+  },
+  "Preset": {
+    "type": "category_generator",
+    "pool": [
+          "facial,bukkake,cum on face,POV,Penis,", " facial,bukkake,cum on face,from side,penis", "Train Background,Molester,Chikan,school uniform, from below, Panties Aside,fingering",
+          "Train Background,Molester,Chikan,school uniform, from below, Panties Aside,fingering,Spread Pussy,", "Sex,doggy style,Leash pull, pet Play,Coller",
+          "vacuum fellatio, :>=, oral, deep penetration", "vacuum fellatio, :>=, oral, deep penetration,dutch angle, Leash pull, pet Play,Coller",
+          "from below, nude,pet Play,leash pull,Coller,(paw pose:1.2),squatting,(open legs:1.2),open mouth,tongue out,", "nude,pet Play,leash pull,Coller,squatting,(open legs:1.2),fellatio,",
+          "nursing handjob,half-closed eyes,", "x-ray,vaginal sex,cowgirl position,deep penetration,riding penis,uterus,vaginal penetration,tongue out,ahegao",
+          "Cum , Bed, lying, Spread leg,","suspended congress, vaginal, anal, ass ,ass focus, ass grab, standing, hug, leg lock, breast press,straddling,arms around neck, lifting person,face-to-face,Orgsm, Kiss, tongue out, ",
+          "suspended congress, vaginal, anal, ass ,ass focus, ass grab, standing, hug, leg lock, breast press,straddling,arms around neck, lifting person,face-to-face",
+          " penis, male sitting ,sofa, pussy, from behind, squatting, upright straddle, from below, "," from above , penis,kneeling,saliva, half-closed eyes, looking up, Sucking testicles, penis on face",
+          "from side, tongue out, cum on tongue, penis,pojecile cum,", " cum, ,pussy, spread pussy,"," cum,pussy, spread pussy,"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
   }
 }
