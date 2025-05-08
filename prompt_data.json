@@ -50,11 +50,18 @@
   "AnimeCharacter": {
       "type": "category_generator",
       "pool": [
-        "yunyun (konosuba)", "Jouga Maya (Is the Order a Rabbit?), loli,Child,aged down", "nekomusume (gegege no kitarou 6)", "kokkoro (princess connect!), loli,Child,aged down",
-        "yamato (one piece)", "akimoto katherine reiko", "fujiwara chika", "uzaki hana", "musume (yuunama), loli,Child,aged down", "misogi (princess connect!), loli,Child,aged down",
-        "hestia (danmachi)", "Android 18 (Dragon Ball)", "Minamoto Shizuka (Doraemon),loli,Child,aged down", "Galko (Oshiete! Galko-chan)", "keke tang (Love Live! Superstar!!)", "yanagi uzaki", "kanna kamui, loli,Child,aged down", 
-        "Komi Shouko (Komi Can't Communicate)", "Shuuko Komi (Komi Can't Communicate)", "pecorine (princess connect!)", "karyl (princess connect!)", "chloe (princess connect!)",
-        "nishikigi chisato", "nagatoro hayase", "inoue orihime (Bleach)", "toga himiko", "uzaki tsuki", "tsunade (naruto)", "takimoto hifumi (new game!)"
+        "yunyun (konosuba),Brown hair,Red eyes", "Jouga Maya (Is the Order a Rabbit?),Blue hair,Yellow eyes,loli,Child,aged down", "nekomusume (gegege no kitarou 6),Purple hair,Yellow eyes",
+        "kokkoro (princess connect!),White hair,Purple eyes,loli,Child,aged down", "anya forger(spy x family),Pink hair,Green eyes,loli,Child,aged down", "Makima(Chainsaw Man),Red hair,ringed eyes",
+        "yamato (one piece),Multicolored hair,Blue hair,Green hair,White hair,Orange eyes,", "akimoto katherine reiko(Kochikame),Blonde hair,Brown eyes",
+        "fujiwara chika,Pink hair,Blue eyes", "uzaki hana,Grey hair,Blue eyes", "musume (yuunama),Purple skin,Purple hair,black sclera,loli,Child,aged down", 
+        "misogi (princess connect!),Orange hair,Orange eyes, loli,Child,aged down","sakura futaba(persona5),Orange hair,Purple eyes","2b (nier:automata),White hair,Blindfold",
+        "hestia (danmachi),Black hair,Blue eyes", "Android 18 (Dragon Ball),Blonde hair,Blue eyes", "Minamoto Shizuka (Doraemon),Black hair,Black eyes,loli,Child,aged down",
+        "Galko (Oshiete! Galko-chan),Blonde hair,Blue eyes", "keke tang (Love Live! Superstar!!),Grey hair, Blue eyes", "yanagi uzaki,Grey hair,hair over eyes,covered eyes",
+        "kanna kamui, light purple hair,Grey hair,Multicolored hair,Blue eyes,loli,Child,aged down", "yuni(princess connect!),Orange hair,Purple eyes,loli,Child,aged down",
+        "Komi Shouko (Komi Can't Communicate),Purple hair,Purple eyes", "Shuuko Komi (Komi Can't Communicate),Milf,Purple hair,Purple eyes",
+        "pecorine (princess connect!),Orange hair,Blue eyes", "karyl (princess connect!),Black hair,Green eyes", "chloe (princess connect!),Blonde hair,Purple eyes",
+        "nishikigi chisato(lycoris recoil),Blonde hair,Red eyes", "nagatoro hayase,Black hair,Brown eyes", "inoue orihime (Bleach),Orange hair,Grey eyes",
+        "toga himiko,Blonde hair,Yellow eyes", "uzaki tsuki,Milf,Grey hair,Closed eyes", "tsunade (naruto),Milf,Blonde hair,Brown eyes", "takimoto hifumi (new game!),Purple hair, Blue eyes"
       ],
       "default_mode": "Random",
       "default_count": 1
@@ -62,10 +69,10 @@
   "Play": {
       "type": "category_generator",
       "pool": [
-          "Blowjob", "masturbation", "dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri", "breasts blowjob", 
-          "vaginal", "sex", "back", "woman on top", "supright straddle", "anal", "gangbang", "facial,cum", "bukkake", "cum in mouth",
-          "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
-          "Milking machines", "Gloryhole", "nursing handjob", "used condom", "show off nipple", "Fingering", "suspended congress,ass grab", "Deepthroat","Doggy style",
+          "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri", "Breast blowjob", 
+          "sex, Back", "sex, woman on top", "sex, supright straddle", "sex, anal", "gangbang", "facial,cum", "cum,bukkake", "cum in mouth",
+          "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
+          "Milking machines", "nursing handjob", "show off nipple", "Fingering", "suspended congress,ass grab", "Blow job,Deepthroat","Sex,Doggy style",
           "X-ray,cross-section,uterus", "vacuum fellatio", "Spanking", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg"
       ],
       "default_mode": "Random",
@@ -74,7 +81,7 @@
   "composition": {
       "type": "category_generator",
       "pool": [
-          "From behind", "from back", "from below", "from above", "From side", "From front", "POV", "POV hand", "dutch angle"
+          "From behind", "from below", "from above", "From side", "POV", "POV hand", "dutch angle"
       ],
       "default_mode": "Random",
       "default_count": 1
@@ -82,7 +89,7 @@
   "clothes": {
       "type": "category_generator",
       "pool": [
-          "default outfit", "gothic_lolita", "school_uniform", "Succubus clothes", "Nurse clothes", "Maid clothes", "Cheerleader clothes", "Bunny Girl clothes", "clothes",
+          "default outfit", "gothic_lolita", "school_uniform", "Succubus clothes", "Nurse clothes", "Maid clothes", "Cheerleader clothes", "Bunny Girl clothes", "Office lady clothes",
           "Police Officer clothes", "Secretary clothes", "Casino Dealer clothes", "Waitress clothes", "Sailor Uniform clothes", "Swimsuit clothes", "micro bikini clothes", "Bra", "Panties"
       ],
       "default_mode": "Random",
@@ -91,8 +98,10 @@
   "Expression": {
       "type": "category_generator",
       "pool": [
-          "smile", "sad", "angry", "surprised", "neutral expression", "crying", "disgusted", "open mouth", "tongue out", "ahegao", "Orgasm", "evil smile", "embarrassed", "naughty face", "cross-eyed",
-          "scared", "confused", "happy", "closed eyes", "winking", "pouting", "serious expression", "content smile", "half closed eyes", " puckered lips, tearing up,  v-shaped eyebrows, rolling eyes,"
+          "smile", "sad", "angry", "surprised", "neutral expression", "crying", "disgusted", "open mouth", "tongue out", "ahegao", "Orgasm", "evil smile", 
+          "embarrassed", "naughty face", "cross-eyed", "crying with eyes open", "Closed mouth, Closed eyes", "condom in mouth",
+          "scared", "confused", "happy", "closed eyes", "winking", "pouting", "serious expression", "content smile", "half closed eyes", 
+          " puckered lips, tearing up,  v-shaped eyebrows, rolling eyes", "narrowed eyes, constricted pupils,","wide-eyed, constricted pupils"
       ],
       "default_mode": "Random",
       "default_count": 1
@@ -100,7 +109,7 @@
   "Background": {
       "type": "category_generator",
       "pool": [
-          "Simple Background", "White Background", "Grey Background", "pink Background", "Hotel Room", "Bed", "tatami", "futon", "bathroom"
+          "Simple Background", "White Background", "Grey Background", "pink Background", "Hotel Room,Bed", "Bed", "tatami,Futon", "Toilet"
       ],
       "default_mode": "Random",
       "default_count": 1
