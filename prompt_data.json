@@ -69,7 +69,7 @@
   "Play": {
       "type": "category_generator",
       "pool": [
-          "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri", "Breast blowjob", 
+          "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri,Penis", "Paizuri,Penis,blowjob", 
           "sex, Back", "sex, woman on top", "sex, supright straddle", "sex, anal", "gangbang", "facial,cum", "cum,bukkake", "cum in mouth",
           "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
           "Milking machines", "nursing handjob", "show off nipple", "Fingering", "suspended congress,ass grab", "Blow job,Deepthroat","Sex,Doggy style",
@@ -99,7 +99,7 @@
       "type": "category_generator",
       "pool": [
           "smile", "sad", "angry", "surprised", "neutral expression", "crying", "disgusted", "open mouth", "tongue out", "ahegao", "Orgasm", "evil smile", 
-          "embarrassed", "naughty face", "cross-eyed", "crying with eyes open", "Closed mouth, Closed eyes", "condom in mouth",
+          "embarrassed", "naughty face", "cross-eyed", "crying with eyes open", "Closed mouth, Closed eyes",
           "scared", "confused", "happy", "closed eyes", "winking", "pouting", "serious expression", "content smile", "half closed eyes", 
           " puckered lips, tearing up,  v-shaped eyebrows, rolling eyes", "narrowed eyes, constricted pupils,","wide-eyed, constricted pupils"
       ],
@@ -126,6 +126,47 @@
           "suspended congress, vaginal, anal, ass ,ass focus, ass grab, standing, hug, leg lock, breast press,straddling,arms around neck, lifting person,face-to-face",
           " penis, male sitting ,sofa, pussy, from behind, squatting, upright straddle, from below, "," from above , penis,kneeling,saliva, half-closed eyes, looking up, Sucking testicles, penis on face",
           "from side, tongue out, cum on tongue, penis,pojecile cum,", " cum, ,pussy, spread pussy,"," cum,pussy, spread pussy,"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "Loli": {
+    "type": "category_generator",
+    "pool": [
+        "fukuyama mai (idolmaster),Black hair","makaino ririmu,nijisanji,Red eyes","ichihara nina (idolmaster),Brown hair,Brown eyes","akagi miria (idolmaster),Black hair",
+        "jougasaki rika (idolmaster),Blonde hair,Green eyes","fukumaru koito (idolmaster),Blue hair,Purple eyes","Jouga Maya (Is the Order a Rabbit?),Blue hair,Yellow eyes",
+        "kokkoro (princess connect!),White hair,Purple eyes","anya forger(spy x family),Pink hair,Green eyes","misogi (princess connect!),Orange hair,Orange eyes",
+        "musume (yuunama),Purple skin,Purple hair,black sclera","Minamoto Shizuka (Doraemon),Black hair,Black eyes","kanna kamui, light purple hair,Grey hair,Multicolored hair,Blue eyes",
+        "yuni(princess connect!),Orange hair,Purple eyes", "kafuu chino (Is the Order a Rabbit?),Blue eyes,Blue hair", "hinatsuru ai(Ryuuou no Oshigoto!),Brown hair,Blue eyes",
+        "komekko(konosuba),Brown hair,Red eyes,star hair ornament", "suzukaze aoba(NEW GAME!),light purple hair,Purple eyes", "kurosu aroma(pripara),Brown hair,Blue eyes",
+        "Laala manaka(pripara),Purple hair,green eyes", "Mirai momoyama(Kiratto PriChan),Pink hair", "Sara midorikawa(Kiratto PriChan),Green hair, Purple eyes",
+        "moegi emo(Kiratto PriChan),Yellow hair,Blue eyes", "KiracCHU(Kiratto PriChan),Pink hair, Yellow eyes", "Melpan(Kiratto PriChan),Blue hair, Purple eyes",
+        "Rabbily(Kiratto PriChan),Green hair,Red eyes"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "Loli_only": {
+    "type": "category_generator",
+    "pool": [
+        "loli,Child,aged down"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "Loli_Option": {
+    "type": "category_generator",
+    "pool": [
+        "jojifuku","randoseru","idol costume,ruffle skirt,high thigh socks","mesugaki","princess dress","jiraikei, pink shirt,ruffle shirt, black mini skirt, high thigh socks",
+        "Huge breasts","tanned skin"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "toddlercon": {
+    "type": "category_generator",
+    "pool": [
+        "toddlercon,baby,infant,child,aged down,round face"
     ],
     "default_mode": "Random",
     "default_count": 1
