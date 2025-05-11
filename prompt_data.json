@@ -224,5 +224,16 @@
     ],
     "default_mode": "Random",
     "default_count": 1
+  },
+  "ORG_Breasts": {
+    "type": "category_generator",
+    "pool": [
+        "Flat chest","Small breasts","Medium breasts","Large breasts","Huge breasts","Gigantic breasts","Breast size A","Breast size B","Breast size C",
+        "Breast size D","Breast size E","Breast size F","Breast size G","Breast size H","Breast size I","Breast size J","Breast size K","Breast size L",
+        "Breast size M","Breast size N","Breast size O","Breast size P"
+
+    ],
+    "default_mode": "Random",
+    "default_count": 1
   }
 }
