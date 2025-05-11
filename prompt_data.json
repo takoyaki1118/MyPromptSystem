@@ -194,8 +194,8 @@
     "pool": [
         "empty eyes","tsurime","tareme","kawaii eyes","cat eyes","slit pupils","ringed eyes","star eyes","heart eyes","spiral eyes","crossed eyes","squinting eyes",
         "half-closed eyes","closed eyes","open eyes","narrowed eyes","wide-eyed","constricted pupils","pupil-less eyes","glowing eyes","glossy eyes","shining eyes",
-        "glassy eyes","shiny eyes","sparkling eyes","glittering eyes","dull eyes","hollow eyes","dark circles","bags under eyes","black sclera","white sclera",
-        "red sclera","blue sclera","green sclera","yellow sclera","purple sclera","orange sclera","pink sclera","brown sclera","grey sclera","black pupils"
+        "glassy eyes","shiny eyes","sparkling eyes","glittering eyes","dull eyes","hollow eyes","dark circles","bags under eyes","black sclera",
+        "black pupils"
     ],
     "default_mode": "Random",
     "default_count": 1
@@ -228,32 +228,7 @@
   "ORG_Breasts": {
     "type": "category_generator",
     "pool": [
-        "Flat chest","Small breasts","Medium breasts","Large breasts","Huge breasts","Gigantic breasts","Breast size A","Breast size B","Breast size C",
-        "Breast size D","Breast size E","Breast size F","Breast size G","Breast size H","Breast size I","Breast size J","Breast size K","Breast size L",
-        "Breast size M","Breast size N","Breast size O","Breast size P"
-
-    ],
-    "default_mode": "Random",
-    "default_count": 1
-  },
-  "MonsterGirlPreset": {
-    "type": "category_generator",
-    "pool": [
-        "Species: Dragonkin, HairColor: Crimson, EyeColor: Ruby Red, SkinType: Scaly, TailType: Spiked Dragon, Personality: Fierce, Personality: Bold",
-        "Species: Harpy, HairColor: Sapphire, EyeColor: Sapphire Blue, SkinType: Feathered, TailType: Feathered, Personality: Playful, Personality: Curious",
-        "Species: Naga, HairColor: Emerald, EyeColor: Slitted Gold, SkinType: Smooth, TailType: Long Naga, Personality: Mysterious, Personality: Cunning",
-        "Species: Mermaid, HairColor: Coral, EyeColor: Coral Pink, SkinType: Slippery, TailType: Mermaid Fin, Personality: Gentle, Personality: Nurturing",
-        "Species: Succubus, HairColor: Onyx, EyeColor: Crimson Glow, SkinType: Smooth, TailType: Barbed, Personality: Seductive, Personality: Chaotic",
-        "Species: Arachne, HairColor: Obsidian, EyeColor: Onyx Black, SkinType: Patterned (Stripes), TailType: None, Personality: Shy, Personality: Wise",
-        "Species: Lamia, HairColor: Violet, EyeColor: Amethyst Purple, SkinType: Scaly, TailType: Serpentine, Personality: Loyal, Personality: Protective",
-        "Species: Kitsune, HairColor: Moonlight White, EyeColor: Heterochromia (Red/Blue), SkinType: Furred, TailType: Multiple Fox Tails, Personality: Cunning, Personality: Playful",
-        "Species: Vampire, HairColor: Silver, EyeColor: Neon Yellow, SkinType: Smooth, TailType: None, Personality: Mysterious, Personality: Stoic",
-        "Species: Centaur, HairColor: Gold, EyeColor: Amber Gold, SkinType: Furred, TailType: None, Personality: Bold, Personality: Loyal",
-        "Species: Slime, HairColor: Neon Pink, EyeColor: Glowing Violet, SkinType: Translucent, TailType: None, Personality: Cheerful, Personality: Impulsive",
-        "Species: Gorgon, HairColor: Shadow Black, EyeColor: Deep Indigo, SkinType: Scaly, TailType: Serpentine, Personality: Fierce, Personality: Sarcastic",
-        "Species: Dryad, HairColor: Mossy, EyeColor: Emerald Green, SkinType: Bark-like, TailType: None, Personality: Gentle, Personality: Nurturing",
-        "Species: Sphinx, HairColor: Ruby, EyeColor: Starlit Silver, SkinType: Furred, TailType: Prehensile, Personality: Wise, Personality: Calm",
-        "Species: Siren, HairColor: Azure, EyeColor: Coral Pink, SkinType: Iridescent, TailType: None, Personality: Seductive, Personality: Rebellious"
+        "Flat chest","Small breasts","Medium breasts","Large breasts","Huge breasts","Gigantic breasts","Breast cleavage","Breast sagging"
     ],
     "default_mode": "Random",
     "default_count": 1
