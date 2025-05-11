@@ -170,5 +170,59 @@
     ],
     "default_mode": "Random",
     "default_count": 1
+  },
+  "ORG_HairStyle": {
+    "type": "category_generator",
+    "pool": [
+      "Short hair","Long hair","Medium hair","Ponytail","Twin tails","Bun","Side ponytail","Braids","Short bob","Long bob","Curly hair","Wavy hair",
+      "Drill hair","Hime cut","Side braid","Half updo","Twintails with ribbons","Messy bun","Hair with bangs","Straight hair","Layered hair","Pixie cut",
+      "Hair with hairpins","Side-swept bangs","French braid","Waterfall braid","Low ponytail","High ponytail","Space buns","Hair with flowers","Hair with bow"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "ORG_HairColor": {
+    "type": "category_generator",
+    "pool": [
+        "Red hair","Brown hair","Purple hair","Blue hair","Grey hair","Yellow hair","Green hair","Blonde hair","Black hair","Orange hair","Pink hair","White hair"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "ORG_EyesStyle": {
+    "type": "category_generator",
+    "pool": [
+        "empty eyes","tsurime","tareme","kawaii eyes","cat eyes","slit pupils","ringed eyes","star eyes","heart eyes","spiral eyes","crossed eyes","squinting eyes",
+        "half-closed eyes","closed eyes","open eyes","narrowed eyes","wide-eyed","constricted pupils","pupil-less eyes","glowing eyes","glossy eyes","shining eyes",
+        "glassy eyes","shiny eyes","sparkling eyes","glittering eyes","dull eyes","hollow eyes","dark circles","bags under eyes","black sclera","white sclera",
+        "red sclera","blue sclera","green sclera","yellow sclera","purple sclera","orange sclera","pink sclera","brown sclera","grey sclera","black pupils"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "ORG_EyesColor": {
+    "type": "category_generator",
+    "pool": [
+        "Red eyes","Brown eyes","Purple eyes","Blue eyes","Grey eyes","Yellow eyes","Green eyes","Black eyes","Orange eyes"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "ORG_SkinColor": {
+    "type": "category_generator",
+    "pool": [
+        "White skin","Tanned skin","Dark skin","Light skin","Yellow skin","Pinkish skin","Blue skin","Green skin","Purple skin","Grey skin","Brown skin","Black skin",
+        "Red skin","Orange skin","Yellowish skin","Pale skin","Rosy skin","Freckled skin","Spotted skin","Mottled skin","Veiny skin","Scarred skin","Tattooed skin"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
+  },
+  "ORG_Age": {
+    "type": "category_generator",
+    "pool": [
+      "Toddlercon","Infant","loli","Child","MILF","Mature"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
   }
 }
