@@ -235,5 +235,27 @@
     ],
     "default_mode": "Random",
     "default_count": 1
+  },
+  "MonsterGirlPreset": {
+    "type": "category_generator",
+    "pool": [
+        "Species: Dragonkin, HairColor: Crimson, EyeColor: Ruby Red, SkinType: Scaly, TailType: Spiked Dragon, Personality: Fierce, Personality: Bold",
+        "Species: Harpy, HairColor: Sapphire, EyeColor: Sapphire Blue, SkinType: Feathered, TailType: Feathered, Personality: Playful, Personality: Curious",
+        "Species: Naga, HairColor: Emerald, EyeColor: Slitted Gold, SkinType: Smooth, TailType: Long Naga, Personality: Mysterious, Personality: Cunning",
+        "Species: Mermaid, HairColor: Coral, EyeColor: Coral Pink, SkinType: Slippery, TailType: Mermaid Fin, Personality: Gentle, Personality: Nurturing",
+        "Species: Succubus, HairColor: Onyx, EyeColor: Crimson Glow, SkinType: Smooth, TailType: Barbed, Personality: Seductive, Personality: Chaotic",
+        "Species: Arachne, HairColor: Obsidian, EyeColor: Onyx Black, SkinType: Patterned (Stripes), TailType: None, Personality: Shy, Personality: Wise",
+        "Species: Lamia, HairColor: Violet, EyeColor: Amethyst Purple, SkinType: Scaly, TailType: Serpentine, Personality: Loyal, Personality: Protective",
+        "Species: Kitsune, HairColor: Moonlight White, EyeColor: Heterochromia (Red/Blue), SkinType: Furred, TailType: Multiple Fox Tails, Personality: Cunning, Personality: Playful",
+        "Species: Vampire, HairColor: Silver, EyeColor: Neon Yellow, SkinType: Smooth, TailType: None, Personality: Mysterious, Personality: Stoic",
+        "Species: Centaur, HairColor: Gold, EyeColor: Amber Gold, SkinType: Furred, TailType: None, Personality: Bold, Personality: Loyal",
+        "Species: Slime, HairColor: Neon Pink, EyeColor: Glowing Violet, SkinType: Translucent, TailType: None, Personality: Cheerful, Personality: Impulsive",
+        "Species: Gorgon, HairColor: Shadow Black, EyeColor: Deep Indigo, SkinType: Scaly, TailType: Serpentine, Personality: Fierce, Personality: Sarcastic",
+        "Species: Dryad, HairColor: Mossy, EyeColor: Emerald Green, SkinType: Bark-like, TailType: None, Personality: Gentle, Personality: Nurturing",
+        "Species: Sphinx, HairColor: Ruby, EyeColor: Starlit Silver, SkinType: Furred, TailType: Prehensile, Personality: Wise, Personality: Calm",
+        "Species: Siren, HairColor: Azure, EyeColor: Coral Pink, SkinType: Iridescent, TailType: None, Personality: Seductive, Personality: Rebellious"
+    ],
+    "default_mode": "Random",
+    "default_count": 1
   }
 }
