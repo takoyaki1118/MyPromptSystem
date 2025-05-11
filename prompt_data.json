@@ -193,9 +193,8 @@
     "type": "category_generator",
     "pool": [
         "empty eyes","tsurime","tareme","kawaii eyes","cat eyes","slit pupils","ringed eyes","star eyes","heart eyes","spiral eyes","crossed eyes","squinting eyes",
-        "half-closed eyes","closed eyes","open eyes","narrowed eyes","wide-eyed","constricted pupils","pupil-less eyes","glowing eyes","glossy eyes","shining eyes",
-        "glassy eyes","shiny eyes","sparkling eyes","glittering eyes","dull eyes","hollow eyes","dark circles","bags under eyes","black sclera",
-        "black pupils"
+        "half-closed eyes","closed eyes","open eyes","narrowed eyes","wide-eyed","constricted pupils","pupil-less eyes",
+        "glittering eyes","dull eyes","hollow eyes","dark circles","bags under eyes","black sclera","black pupils"
     ],
     "default_mode": "Random",
     "default_count": 1
