@@ -1,6 +1,6 @@
 {
   "nijisanji": {
-    "type": "category_generator",
+    "type": "selector",
     "pool": [
       "shiina yuika,nijisanji,pink hair,", "shishido akari,nijisanji,Green eyes,Red hair,", "rindou mikoto,nijisanji,light purple hair,", "amamiya kokoro,nijisanji,blue hair",
       "ienaga mugi,nijisanji,Yellow eyes,Blonde hair", "Sakura Ritsuki,nijisanji,Green eyes,purple hair", "Yotsuha umise,nijisanji,Yellow eyes",
@@ -18,23 +18,19 @@
       "takamiya rion,nijisanji,Blonde hair,purple eyes", "tsukino mito,nijisanji,Black hair,Blue eyes","luis cammy,nijisanji,Blonde hair,Red eyes",
       "lize helesta,nijisanji,Multicolored hair,Purple eyes", "koshimizu toru, nijisanji,Purple eyes,Blue hair", "machita chima,nijisanji,Yellow eyes,Light brown hair",
       "sango suo,nijisanji,Blue eyes,Pink hair", "elu,nijisanji,Gradient eyes,Grey hair","kaburaki roco,nijisanji,Blonde hair,Green eyes"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "hololive": {
-    "type": "category_generator",
+    "type": "selector",
     "pool": [
       "hoshimachi suisei,hololive,Blue eyes,Blue hair", "tokino sora,hololive,Brown hair,Blue eyes", "sakura miko,hololive,Green eyes,Pink hair",
       "houshou marine,hololive,Red eye,Yellow eye,Red hair", "minato aqua,hololive,Purple eyes,Multicolored hair,Pink hair",
       "gawr gura,hololive,Blue eyes", "oozora subaru,hololive", "murasaki shion,hololive,Grey hair", "ookami mio,hololive,Animal ears,Yellow eyes,Multicolored hair,Black hair",
       "noel shirogane,hololive,Grey hair,Green eyes","natsuiro matsuri,hololive,Aqua eyes,Brown hair"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "idolmaster": {
-      "type": "category_generator",
+      "type": "selector",
       "pool": [
         "mayuzumi fuyuko (idolmaster),Black hair", "Komiya Kaho (idolmaster),Red hair,Red eyes", "nanakusa nichika (idolmaster),Green hair,Green eyes",
         "morino rinze (idolmaster),Blue hair,Red eyes","fukuyama mai (idolmaster),Black hair,loli,Child,aged down",
@@ -43,12 +39,10 @@
         "honda mio (idolmaster),Brown hair, Brown eyes", "yumemi riamu (idolmaster),Multicolored hair,Pink hair,", "fukumaru koito (idolmaster),Blue hair,Purple eyes,loli,Child,aged down",
         "sonoda chiyoko (idolmaster),Brown hair,Red eyes", "hachimiya meguru (idolmaster),Yellow hair,Blue eyes","mika jougasaki(idolmaster),Pink hair,",
         "sato shin(idolmaster),Blonde hair,Green eyes", "kogane tsukioka(idolmaster),Brown hair,Brown eyes", "tenka osaki(idolmaster),Red hair,Brown eyes,"
-      ],
-      "default_mode": "Random",
-      "default_count": 1
+      ]
   },
   "AnimeCharacter": {
-      "type": "category_generator",
+      "type": "selector",
       "pool": [
         "yunyun (konosuba),Brown hair,Red eyes", "Jouga Maya (Is the Order a Rabbit?),Blue hair,Yellow eyes,loli,Child,aged down", "nekomusume (gegege no kitarou 6),Purple hair,Yellow eyes",
         "kokkoro (princess connect!),White hair,Purple eyes,loli,Child,aged down", "anya forger(spy x family),Pink hair,Green eyes,loli,Child,aged down", "Makima(Chainsaw Man),Red hair,ringed eyes",
@@ -62,38 +56,30 @@
         "pecorine (princess connect!),Orange hair,Blue eyes", "karyl (princess connect!),Black hair,Green eyes", "chloe (princess connect!),Blonde hair,Purple eyes",
         "nishikigi chisato(lycoris recoil),Blonde hair,Red eyes", "nagatoro hayase,Black hair,Brown eyes", "inoue orihime (Bleach),Orange hair,Grey eyes",
         "toga himiko,Blonde hair,Yellow eyes", "uzaki tsuki,Milf,Grey hair,Closed eyes", "tsunade (naruto),Milf,Blonde hair,Brown eyes", "takimoto hifumi (new game!),Purple hair, Blue eyes"
-      ],
-      "default_mode": "Random",
-      "default_count": 1
+      ]
   },
   "Play": {
-      "type": "category_generator",
+      "type": "selector",
       "pool": [
           "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri,Penis", "Paizuri,Penis,blowjob", 
           "sex, Back", "sex, woman on top", "sex, supright straddle", "sex, anal", "gangbang", "facial,cum", "cum,bukkake", "cum in mouth",
           "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
           "Milking machines", "nursing handjob", "show off nipple", "Fingering", "suspended congress,ass grab", "Blow job,Deepthroat","Sex,Doggy style",
           "X-ray,cross-section,uterus", "vacuum fellatio", "Spanking", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg"
-      ],
-      "default_mode": "Random",
-      "default_count": 1
+      ]
   },
   "composition": {
       "type": "category_generator",
       "pool": [
           "From behind", "from below", "from above", "From side", "POV", "POV hand", "dutch angle"
-      ],
-      "default_mode": "Random",
-      "default_count": 1
+      ]
   },
   "clothes": {
       "type": "category_generator",
       "pool": [
           "default outfit", "gothic_lolita", "school_uniform", "Succubus clothes", "Nurse clothes", "Maid clothes", "Cheerleader clothes", "Bunny Girl clothes", "Office lady clothes",
           "Police Officer clothes", "Secretary clothes", "Casino Dealer clothes", "Waitress clothes", "Sailor Uniform clothes", "Swimsuit clothes", "micro bikini clothes", "Bra", "Panties"
-      ],
-      "default_mode": "Random",
-      "default_count": 1
+      ]
   },
   "Expression": {
       "type": "category_generator",
@@ -102,20 +88,16 @@
           "embarrassed", "naughty face", "cross-eyed", "crying with eyes open", "Closed mouth, Closed eyes",
           "scared", "confused", "happy", "closed eyes", "winking", "pouting", "serious expression", "content smile", "half closed eyes", 
           " puckered lips, tearing up,  v-shaped eyebrows, rolling eyes", "narrowed eyes, constricted pupils,","wide-eyed, constricted pupils"
-      ],
-      "default_mode": "Random",
-      "default_count": 1
+      ]
   },
   "Background": {
       "type": "category_generator",
       "pool": [
           "Simple Background", "White Background", "Grey Background", "pink Background", "Hotel Room,Bed", "Bed", "tatami,Futon", "Toilet"
-      ],
-      "default_mode": "Random",
-      "default_count": 1
+      ]
   },
   "Preset": {
-    "type": "category_generator",
+    "type": "selector",
     "pool": [
           "facial,bukkake,cum on face,POV,Penis,", " facial,bukkake,cum on face,from side,penis", "Train Background,Molester,Chikan,school uniform, from below, Panties Aside,fingering",
           "Train Background,Molester,Chikan,school uniform, from below, Panties Aside,fingering,Spread Pussy,", "Sex,doggy style,Leash pull, pet Play,Coller",
@@ -126,9 +108,7 @@
           "suspended congress, vaginal, anal, ass ,ass focus, ass grab, standing, hug, leg lock, breast press,straddling,arms around neck, lifting person,face-to-face",
           " penis, male sitting ,sofa, pussy, from behind, squatting, upright straddle, from below, "," from above , penis,kneeling,saliva, half-closed eyes, looking up, Sucking testicles, penis on face",
           "from side, tongue out, cum on tongue, penis,pojecile cum,", " cum, ,pussy, spread pussy,"," cum,pussy, spread pussy,"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "Loli": {
     "type": "category_generator",
@@ -142,34 +122,26 @@
         "Laala manaka(pripara),Purple hair,green eyes", "Mirai momoyama(Kiratto PriChan),Pink hair", "Sara midorikawa(Kiratto PriChan),Green hair, Purple eyes",
         "moegi emo(Kiratto PriChan),Yellow hair,Blue eyes", "KiracCHU(Kiratto PriChan),Pink hair, Yellow eyes", "Melpan(Kiratto PriChan),Blue hair, Purple eyes",
         "Rabbily(Kiratto PriChan),Green hair,Red eyes"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "Loli_only": {
     "type": "category_generator",
     "pool": [
         "loli,Child,aged down"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "Loli_Option": {
     "type": "category_generator",
     "pool": [
         "jojifuku","randoseru","idol costume,ruffle skirt,high thigh socks","mesugaki","princess dress","jiraikei, pink shirt,ruffle shirt, black mini skirt, high thigh socks",
         "Huge breasts","tanned skin"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "toddlercon": {
     "type": "category_generator",
     "pool": [
         "toddlercon,baby,infant,child,aged down,round face"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "ORG_HairStyle": {
     "type": "category_generator",
@@ -177,17 +149,13 @@
       "Short hair","Long hair","Medium hair","Ponytail","Twin tails","Bun","Side ponytail","Braids","Short bob","Long bob","Curly hair","Wavy hair",
       "Drill hair","Hime cut","Side braid","Half updo","Twintails with ribbons","Messy bun","Hair with bangs","Straight hair","Layered hair","Pixie cut",
       "Hair with hairpins","Side-swept bangs","French braid","Waterfall braid","Low ponytail","High ponytail","Space buns","Hair with flowers","Hair with bow"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "ORG_HairColor": {
     "type": "category_generator",
     "pool": [
         "Red hair","Brown hair","Purple hair","Blue hair","Grey hair","Yellow hair","Green hair","Blonde hair","Black hair","Orange hair","Pink hair","White hair"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "ORG_EyesStyle": {
     "type": "category_generator",
@@ -195,42 +163,32 @@
         "empty eyes","tsurime","tareme","kawaii eyes","cat eyes","slit pupils","ringed eyes","star eyes","heart eyes","spiral eyes","crossed eyes","squinting eyes",
         "half-closed eyes","closed eyes","open eyes","narrowed eyes","wide-eyed","constricted pupils","pupil-less eyes",
         "glittering eyes","dull eyes","hollow eyes","dark circles","bags under eyes","black sclera","black pupils"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "ORG_EyesColor": {
     "type": "category_generator",
     "pool": [
         "Red eyes","Brown eyes","Purple eyes","Blue eyes","Grey eyes","Yellow eyes","Green eyes","Black eyes","Orange eyes"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "ORG_SkinColor": {
     "type": "category_generator",
     "pool": [
         "White skin","Tanned skin","Dark skin","Light skin","Yellow skin","Pinkish skin","Blue skin","Green skin","Purple skin","Grey skin","Brown skin","Black skin",
         "Red skin","Orange skin","Yellowish skin","Pale skin","Rosy skin","Freckled skin","Spotted skin","Mottled skin","Veiny skin","Scarred skin","Tattooed skin"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "ORG_Age": {
     "type": "category_generator",
     "pool": [
       "Toddlercon","Infant","loli","Child","MILF","Mature"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "ORG_Breasts": {
     "type": "category_generator",
     "pool": [
         "Flat chest","Small breasts","Medium breasts","Large breasts","Huge breasts","Gigantic breasts","Breast cleavage","Breast sagging"
-    ],
-    "default_mode": "Random",
-    "default_count": 1
+    ]
   },
   "MonsterGirlPreset": {
     "type": "category_generator",
