@@ -1,7 +1,7 @@
 {
   "nijisanji": {
     "type": "selector",
-    "pool": [
+    "items": [
       "shiina yuika,nijisanji,pink hair,", "shishido akari,nijisanji,Green eyes,Red hair,", "rindou mikoto,nijisanji,light purple hair,", "amamiya kokoro,nijisanji,blue hair",
       "ienaga mugi,nijisanji,Yellow eyes,Blonde hair", "Sakura Ritsuki,nijisanji,Green eyes,purple hair", "Yotsuha umise,nijisanji,Yellow eyes",
       "Dola,nijisanji,Red hair,Red eyes", "hoshikawa sara,nijisanji,Red eye,Yellow eye,Blonde hair", "sister claire,nijisanji,light brown hair,Brown eyes",
@@ -23,7 +23,7 @@
   },
   "hololive": {
     "type": "selector",
-    "pool": [
+    "items": [
       "hoshimachi suisei,hololive,Blue eyes,Blue hair", "tokino sora,hololive,Brown hair,Blue eyes", "sakura miko,hololive,Green eyes,Pink hair",
       "houshou marine,hololive,Red eye,Yellow eye,Red hair", "minato aqua,hololive,Purple eyes,Multicolored hair,Pink hair",
       "gawr gura,hololive,Blue eyes", "oozora subaru,hololive", "murasaki shion,hololive,Grey hair", "ookami mio,hololive,Animal ears,Yellow eyes,Multicolored hair,Black hair",
@@ -33,7 +33,7 @@
   },
   "idolmaster": {
       "type": "selector",
-      "pool": [
+      "items": [
         "mayuzumi fuyuko (idolmaster),Black hair", "Komiya Kaho (idolmaster),Red hair,Red eyes", "nanakusa nichika (idolmaster),Green hair,Green eyes",
         "morino rinze (idolmaster),Blue hair,Red eyes","fukuyama mai (idolmaster),Black hair,loli,Child,aged down",
         "tanaka mamimi (idolmaster),Purple hair,Purple eyes", "higuchi madoka (idolmaster),Purple eyes,Brown hair", "akagi miria (idolmaster),Black hair,loli,Child,aged down",
@@ -46,7 +46,7 @@
   },
   "AnimeCharacter": {
       "type": "selector",
-      "pool": [
+      "items": [
         "yunyun (konosuba),Brown hair,Red eyes", "Jouga Maya (Is the Order a Rabbit?),Blue hair,Yellow eyes,loli,Child,aged down", "nekomusume (gegege no kitarou 6),Purple hair,Yellow eyes",
         "kokkoro (princess connect!),White hair,Purple eyes,loli,Child,aged down", "anya forger(spy x family),Pink hair,Green eyes,loli,Child,aged down", "Makima(Chainsaw Man),Red hair,ringed eyes",
         "yamato (one piece),Multicolored hair,Blue hair,Green hair,White hair,Orange eyes,", "akimoto katherine reiko(Kochikame),Blonde hair,Brown eyes",
@@ -64,7 +64,7 @@
   },
   "Play": {
       "type": "selector",
-      "pool": [
+      "items": [
           "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri,Penis", "Paizuri,Penis,blowjob", 
           "sex, Back", "sex, woman on top", "sex, supright straddle", "sex, anal", "gangbang", "facial,cum", "cum,bukkake", "cum in mouth",
           "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
@@ -103,7 +103,7 @@
   },
   "Preset": {
     "type": "selector",
-    "pool": [
+    "items": [
           "facial,bukkake,cum on face,POV,Penis,", " facial,bukkake,cum on face,from side,penis", "Train Background,Molester,Chikan,school uniform, from below, Panties Aside,fingering",
           "Train Background,Molester,Chikan,school uniform, from below, Panties Aside,fingering,Spread Pussy,", "Sex,doggy style,Leash pull, pet Play,Coller",
           "vacuum fellatio, :>=, oral, deep penetration", "vacuum fellatio, :>=, oral, deep penetration,dutch angle, Leash pull, pet Play,Coller",
