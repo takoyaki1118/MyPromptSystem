@@ -231,5 +231,60 @@
     ],
     "default_mode": "Random",
     "default_count": 1
+  },
+  "MonsterGirlPreset": {
+    "type": "category_generator",
+    "pool": [
+      "Dragonkin, LongHair, Crimson hair Color, Red Eyes Color, Slitted Eyes, Red Skin, Scaly Skin, Spiked Tail",
+      "Harpy, ShortHair, Blue hair Color, Blue Eyes Color, Round Eyes, Pale Skin, Feathered Skin, Feathered Tail",
+      "Naga, WavyHair, Green hair Color, Gold Eyes Color, Slitted Eyes, Olive Skin, Smooth Skin, Serpentine Tail",
+      "Mermaid, FlowingHair, Coral hair Color, Pink Eyes Color, Large Eyes, Blue Skin, Smooth Skin, Fin Tail",
+      "Succubus, CurledHair, Black hair Color, Red Eyes Color, Glowing Eyes, Pale Skin, Smooth Skin, Barbed Tail",
+      "Arachne, BraidedHair, Black hair Color, Black Eyes Color, Multiple Eyes, Gray Skin, Patterned Skin, None Tail",
+      "Lamia, LongHair, Purple hair Color, Purple Eyes Color, Narrow Eyes, Green Skin, Scaly Skin, Serpentine Tail",
+      "Kitsune, PonytailHair, White hair Color, Red-Blue Eyes Color, Heterochromic Eyes, Fair Skin, Furred Skin, Multiple Tail",
+      "Vampire, StraightHair, Silver hair Color, Yellow Eyes Color, Glowing Eyes, White Skin, Smooth Skin, None Tail",
+      "Centaur, WavyHair, Gold hair Color, Amber Eyes Color, Round Eyes, Tan Skin, Furred Skin, None Tail",
+      "Slime, NoneHair, Pink hair Color, Violet Eyes Color, Glowing Eyes, Transparent Skin, Gelatinous Skin, None Tail",
+      "Gorgon, SnakesHair, Black hair Color, Indigo Eyes Color, Slitted Eyes, Green Skin, Scaly Skin, Serpentine Tail",
+      "Dryad, VinesHair, Green hair Color, Green Eyes Color, Round Eyes, Brown Skin, Bark-like Skin, None Tail",
+      "Sphinx, LongHair, Red hair Color, Silver Eyes Color, Large Eyes, Bronze Skin, Furred Skin, Prehensile Tail",
+      "Siren, FlowingHair, Blue hair Color, Pink Eyes Color, Large Eyes, Pearl Skin, Iridescent Skin, None Tail"
+    ]
+  },
+  "MonsterGirl_2_Preset": {
+    "type": "category_generator",
+    "pool": [
+      "Dragonkin, LongHair, Slitted Eyes, Scaly Skin, Spiked Tail, Horns, Clawed Hands",
+      "Harpy, ShortHair, Round Eyes, Feathered Skin, Feathered Tail, Wings, Taloned Feet",
+      "Naga, WavyHair, Slitted Eyes, Smooth Serpentine Skin, Serpentine Tail",
+      "Mermaid, FlowingHair, Large Eyes, Smooth Aquatic Skin, Fin Tail, Gills",
+      "Succubus, CurledHair, Glowing Eyes, Smooth Demonic Skin, Barbed Tail, Bat Wings, Cloven Hooves",
+      "Arachne, BraidedHair, Multiple Eyes, Chitinous Skin, None Tail, Spider Legs, Fanged Mandibles",
+      "Lamia, LongHair, Narrow Eyes, Scaly Serpentine Skin, Serpentine Tail",
+      "Kitsune, PonytailHair, Heterochromic Eyes, Furred Skin, Multiple Tail, Fox Ears, Whiskers",
+      "Vampire, StraightHair, Glowing Eyes, Pale Smooth Skin, None Tail, Fangs",
+      "Centaur, WavyHair, Round Eyes, Furred Equine Skin, None Tail, Hooves",
+      "Slime, NoneHair, Glowing Eyes, Gelatinous Skin, None Tail",
+      "Gorgon, SnakesHair, Slitted Eyes, Scaly Skin, Serpentine Tail, Snake Hair",
+      "Dryad, VinesHair, Round Eyes, Bark-like Skin, None Tail, Leafy Tendrils",
+      "Sphinx, LongHair, Large Eyes, Furred Feline Skin, Prehensile Tail, Lion Paws, Eagle Wings",
+      "Siren, FlowingHair, Large Eyes, Iridescent Aquatic Skin, None Tail, Feathered Wings, Clawed Fingers",
+      "Oni, MessyHair, Narrow Eyes, Tough Leathery Skin, None Tail, Horns",
+      "Werewolf, ShaggyHair, Piercing Eyes, Furred Canine Skin, Bushy Tail, Claws, Fangs",
+      "Fairy, PixieHair, Sparkling Eyes, Glittering Skin, None Tail, Insect Wings",
+      "Griffon, FeatheredHair, Sharp Eyes, Furred Avian Skin, Feathered Tail, Talons, Beak",
+      "Minotaur, ShortHair, Round Eyes, Furred Bovine Skin, None Tail, Horns, Hooves",
+      "Kraken, TentacleHair, Glowing Eyes, Slick Cephalopod Skin, None Tail, Tentacle Arms",
+      "Phoenix, FlamingHair, Radiant Eyes, Feathered Fiery Skin, Feathered Tail, Flame Wings",
+      "YukiOnna, FlowingHair, Pale Eyes, Frosty Smooth Skin, None Tail, Icy Aura",
+      "Banshee, TatteredHair, Hollow Eyes, Ethereal Skin, None Tail, Floating Veil",
+      "Chimera, MixedHair, Heterochromic Eyes, Patchwork Skin, Scaled Tail, Lion Claws, Snake Head, Goat Horns",
+      "Manticore, SpikyHair, Predatory Eyes, Furred Feline Skin, Scorpion Tail, Spiked Mane",
+      "Dullahan, LongHair, Glowing Eyes, Pale Smooth Skin, None Tail, Headless Neck",
+      "Alraune, PetalHair, Round Eyes, Plant-like Skin, None Tail, Flower Petals, Vines",
+      "Selkie, SleekHair, Large Eyes, Smooth Seal Skin, None Tail, Flipper Hands",
+      "Roc, FeatheredHair, Sharp Eyes, Feathered Avian Skin, Feathered Tail, Giant Wings, Taloned Feet"
+    ]
   }
 }
