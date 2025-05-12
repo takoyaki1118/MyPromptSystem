@@ -18,7 +18,8 @@
       "takamiya rion,nijisanji,Blonde hair,purple eyes", "tsukino mito,nijisanji,Black hair,Blue eyes","luis cammy,nijisanji,Blonde hair,Red eyes",
       "lize helesta,nijisanji,Multicolored hair,Purple eyes", "koshimizu toru, nijisanji,Purple eyes,Blue hair", "machita chima,nijisanji,Yellow eyes,Light brown hair",
       "sango suo,nijisanji,Blue eyes,Pink hair", "elu,nijisanji,Gradient eyes,Grey hair","kaburaki roco,nijisanji,Blonde hair,Green eyes"
-    ]
+    ],
+    "default_item": "None"
   },
   "hololive": {
     "type": "selector",
@@ -27,7 +28,8 @@
       "houshou marine,hololive,Red eye,Yellow eye,Red hair", "minato aqua,hololive,Purple eyes,Multicolored hair,Pink hair",
       "gawr gura,hololive,Blue eyes", "oozora subaru,hololive", "murasaki shion,hololive,Grey hair", "ookami mio,hololive,Animal ears,Yellow eyes,Multicolored hair,Black hair",
       "noel shirogane,hololive,Grey hair,Green eyes","natsuiro matsuri,hololive,Aqua eyes,Brown hair"
-    ]
+    ],
+    "default_item": "None"
   },
   "idolmaster": {
       "type": "selector",
@@ -39,7 +41,8 @@
         "honda mio (idolmaster),Brown hair, Brown eyes", "yumemi riamu (idolmaster),Multicolored hair,Pink hair,", "fukumaru koito (idolmaster),Blue hair,Purple eyes,loli,Child,aged down",
         "sonoda chiyoko (idolmaster),Brown hair,Red eyes", "hachimiya meguru (idolmaster),Yellow hair,Blue eyes","mika jougasaki(idolmaster),Pink hair,",
         "sato shin(idolmaster),Blonde hair,Green eyes", "kogane tsukioka(idolmaster),Brown hair,Brown eyes", "tenka osaki(idolmaster),Red hair,Brown eyes,"
-      ]
+      ],
+      "default_item": "None"
   },
   "AnimeCharacter": {
       "type": "selector",
@@ -56,7 +59,8 @@
         "pecorine (princess connect!),Orange hair,Blue eyes", "karyl (princess connect!),Black hair,Green eyes", "chloe (princess connect!),Blonde hair,Purple eyes",
         "nishikigi chisato(lycoris recoil),Blonde hair,Red eyes", "nagatoro hayase,Black hair,Brown eyes", "inoue orihime (Bleach),Orange hair,Grey eyes",
         "toga himiko,Blonde hair,Yellow eyes", "uzaki tsuki,Milf,Grey hair,Closed eyes", "tsunade (naruto),Milf,Blonde hair,Brown eyes", "takimoto hifumi (new game!),Purple hair, Blue eyes"
-      ]
+      ],
+      "default_item": "None"
   },
   "Play": {
       "type": "selector",
@@ -66,7 +70,8 @@
           "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
           "Milking machines", "nursing handjob", "show off nipple", "Fingering", "suspended congress,ass grab", "Blow job,Deepthroat","Sex,Doggy style",
           "X-ray,cross-section,uterus", "vacuum fellatio", "Spanking", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg"
-      ]
+      ],
+      "default_item": "None"
   },
   "composition": {
       "type": "category_generator",
@@ -108,7 +113,8 @@
           "suspended congress, vaginal, anal, ass ,ass focus, ass grab, standing, hug, leg lock, breast press,straddling,arms around neck, lifting person,face-to-face",
           " penis, male sitting ,sofa, pussy, from behind, squatting, upright straddle, from below, "," from above , penis,kneeling,saliva, half-closed eyes, looking up, Sucking testicles, penis on face",
           "from side, tongue out, cum on tongue, penis,pojecile cum,", " cum, ,pussy, spread pussy,"," cum,pussy, spread pussy,"
-    ]
+    ],
+    "default_item": "None"
   },
   "Loli": {
     "type": "category_generator",
