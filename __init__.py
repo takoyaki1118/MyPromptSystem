@@ -32,16 +32,30 @@ try:
         class_name = f"{class_name_safe}Node"
 
         base_class = None
-        input_types_dict = {}
+        input_types_dict = {} # Reset for each node
         display_name = f"{category_key}" # Default display name
+        combiner_input_name = "" # Initialize combiner_input_name
 
         if node_type == "selector":
             base_class = SelectorNodeBase
             items = config.get("items", [])
-            input_types_dict = {"required": {"item": (items,)}}
-            display_name = f"{category_key} Selector" # More specific display name
-            # Output name is 'selected_item' (from base class)
-            combiner_input_name = category_key.lower().replace(" ", "_") # e.g., body_type
+            default_item_value = config.get("default_item")
+
+            actual_default = items[0] if items else "" # Fallback if items list is empty
+            if default_item_value and default_item_value in items:
+                actual_default = default_item_value
+            elif items and "None" in items: # Prioritize "None" if present and no other default
+                actual_default = "None"
+            elif items: # Otherwise, first item
+                actual_default = items[0]
+
+            input_types_dict = {
+                "required": {
+                    "item": (items, {"default": actual_default})
+                }
+            }
+            display_name = f"{category_key} Selector"
+            combiner_input_name = category_key.lower().replace(" ", "_")
 
         elif node_type == "category_generator":
             base_class = BaseCategoryNode
@@ -51,23 +65,26 @@ try:
                 "required": {
                     "enable": ("BOOLEAN", {"default": True}),
                     "mode": (BaseCategoryNode.MODES, {"default": default_mode}),
-                    "random_count": ("INT", {"default": default_count, "min": 0, "max": 50}), # Allow more random items?
+                    "random_count": ("INT", {"default": default_count, "min": 0, "max": 50}),
                     "specific_choices": ("STRING", {"multiline": True, "default": ""}),
                     "seed": ("INT", {"default": 0, "min": 0, "max": 0xffffffffffffffff}),
                 }
             }
             display_name = f"{category_key} Generator"
-            # Output name is 'tags' (from base class)
-            combiner_input_name = category_key.lower().replace(" ", "_") + "_tags" # e.g., body_type_tags
+            combiner_input_name = category_key.lower().replace(" ", "_") + "_tags"
 
         else:
             print(f"[MyPromptSystem] Warning: Unknown node type '{node_type}' for category '{category_key}'. Skipping.")
             continue
 
         if base_class:
-            # Define the INPUT_TYPES method for the dynamic class
-            def get_input_types(cls):
-                return input_types_dict
+            # Factory function to create the INPUT_TYPES classmethod
+            # This ensures that each class gets its own specific input_types_dict
+            def get_input_types_factory(current_input_types):
+                @classmethod
+                def get_input_types(cls):
+                    return current_input_types
+                return get_input_types
 
             # Dynamically create the class using type()
             NewNodeClass = type(
@@ -76,7 +93,7 @@ try:
                 {                               # Dictionary of attributes/methods
                     '__module__': __name__,     # Set module for proper identification
                     'CATEGORY_NAME': category_key, # Store the original JSON key
-                    'INPUT_TYPES': classmethod(get_input_types) # Make INPUT_TYPES a class method
+                    'INPUT_TYPES': get_input_types_factory(input_types_dict.copy()) # Use factory with a copy
                 }
             )
 
@@ -87,7 +104,8 @@ try:
             # Define the corresponding input for the combiner node
             # For selector nodes, we expect a single string. For generator nodes, a comma-separated string.
             # Both can be handled as STRING inputs in the combiner.
-            combiner_optional_inputs[combiner_input_name] = ("STRING", {"forceInput": False, "default": ""})
+            if combiner_input_name: # Ensure combiner_input_name was set
+                combiner_optional_inputs[combiner_input_name] = ("STRING", {"forceInput": False, "default": ""})
 
 
     # --- Combiner Node Setup ---
