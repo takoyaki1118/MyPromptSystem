@@ -341,5 +341,74 @@
       "Selkie, SleekHair, Large Eyes, Smooth Seal Skin, None Tail, Flipper Hands",
       "Roc, FeatheredHair, Sharp Eyes, Feathered Avian Skin, Feathered Tail, Giant Wings, Taloned Feet"
     ]
+  },
+  "Softcore": {
+      "type": "selector",
+      "items": [
+        "gym uniform, from behind,  solo focus, from below, adjusting panties",
+        "school uniform, school desk and chair, sitting, spread reg,from below, Skirt lift",
+        "hidden eyes, Eyes mask, open mouth, tongue out, Penis,from side, bikini",
+        "hidden eyes, Eyes mask, open mouth, tongue out, Penis, bikini,from above",
+        "holding Used Condom, mouth holding used Condom, thigh strap Condom",
+        "squatting, spread leg,double v",
+        "spread leg,double v,kneeling, Penis on Head",
+        "Holding Bra",
+        "Standing , spread leg,double v",
+        "Finger covering nipples",
+        "from behind, leaning forward, panty pull",
+        "ok sign in front of mouth,open mouth, tongue out",
+        "coffee mug, breast milk into coffee, Show off nipple,lactation",
+        "standing split, full body",
+        "shushing, show off nipple, Clothes Open"
+      ],
+      "default_item": "None"
+  },
+  "underwear_Style": {
+    "type": "category_generator",
+    "pool": [
+      "lace bra, lace panties",
+      "frilled bra, frilled panties",
+      "bow bra, bow panties",
+      "cami bra, string panties",
+      "strapless bra, string panties",
+      "sports bra, sports panties",
+      "adhesive bra, micro panties",
+      "front-tie bra, side-tie panties",
+      "polka dot bra, polka dot panties",
+      "striped bra, striped panties",
+      "checkered bra, checkered panties",
+      "strawberry print bra, strawberry print panties",
+      "bear print bra, bear print panties",
+      "cat print bra, cat print panties",
+      "balconette bra, high-waist panties",
+      "plunge bra, highleg panties",
+      "sheer lace bra, sheer lace panties",
+      "cupless bra, crotchless panties",
+      "chain-accented bra, chain-accented panties",
+      "satin harness bra, satin thong",
+      "mesh bra, mesh panties"
+    ]
+  },
+  "underwear_color": {
+    "type": "category_generator",
+    "pool": [
+      "Bra black, Panties black",
+      "Bra white, Panties white",
+      "Bra nude, Panties nude",
+      "Bra pink, Panties pink",
+      "Bra blush pink, Panties blush pink",
+      "Bra lavender, Panties lavender",
+      "Bra aqua, Panties aqua",
+      "Bra blue, Panties blue",
+      "Bra red, Panties red",
+      "Bra purple, Panties purple",
+      "Bra green, Panties green",
+      "Bra yellow, Panties yellow",
+      "Bra ivory, Panties ivory",
+      "Bra multicolored, Panties multicolored",
+      "Bra floral print, Panties floral print",
+      "Bra polka dot print, Panties polka dot print",
+      "Bra striped print, Panties striped print"
+    ]
   }
 }
