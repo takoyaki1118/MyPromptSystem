@@ -1,68 +1,149 @@
 {
+  "Tag": {
+      "type": "selector",
+      "items": [
+          "virtual youtuber",
+          "((moaning,Japanese sound effects only,big Sound effects,spoken Sound effects))",
+          "((3D,3DModel,Cel Shading,3D render,anime render))"
+      ],
+      "default_item": "None"
+  },
   "nijisanji": {
-    "type": "selector",
-    "items": [
-      "shiina yuika,nijisanji,pink hair,", "shishido akari,nijisanji,Green eyes,Red hair,", "rindou mikoto,nijisanji,light purple hair,", "amamiya kokoro,nijisanji,blue hair",
-      "ienaga mugi,nijisanji,Yellow eyes,Blonde hair", "Sakura Ritsuki,nijisanji,Green eyes,purple hair", "Yotsuha umise,nijisanji,Yellow eyes",
-      "Dola,nijisanji,Red hair,Red eyes", "hoshikawa sara,nijisanji,Red eye,Yellow eye,Blonde hair", "sister claire,nijisanji,light brown hair,Brown eyes",
-      "higuchi kaede,nijisanji,Purple eyes,Grey hair,", "lain paterson,nijisanji,Red hair", "inui toko,nijisanji,Yellow eye,Red eye,Brown hair", 
-      "nui sociere,nijisanji,Yellow eyes,Blonde hair", "furen e lustario,nijisanji,light brown hair,Red eyes", "shizuka rin,nijisanji,Yellow eyes,Blue hair",
-      "moira,nijisanji,Blue hair,Yellow eyes", "kuramochi meruto,nijisanji,Blue eyes,Pink hair", "matukai mao,nijisanji,Purple eyes,Grey hair", 
-      "ruri shioriha,nijisanji,Green eyes,Grey hair", "ange katrina,nijisanji,Red hair,Blue Eyes", "fuyuki hakase,nijisanji,Red eyes,White hair",
-      "saku sasaki,nijisanji,Pink hair,Pink eyes", "salome hyakumantenbara,nijisanji,Purple hair,Purple eyes",
-      "ponto nei,nijisanji,Blue hair,Blue eyes", "chigusa nishizono,nijisanji,Blue hair,Purple eyes", "karuta yamagami,nijisanji,Yellow eyes,Black hair",
-      "honma himawari,nijisanji,Green eyes,Orange hair", "sophia valentine,nijisanji,Grey hair","fumino tamaki,nijisanji,Cat ears,Green eyes,Brown hair",
-      "fumi,nijisanji,Brown hair,Yellow eyes", "rika igarashi,nijisanji,Green eyes,Brown hair", "ratna petit,nijisanji,Orange eyes,Orange hair",
-      "makaino ririmu,nijisanji,Red eyes,loli,Child,aged down", "yorumi rena,nijisanji,Red eyes,Split hair color",
-      "ishigami nozomi,nijisanji,Pink eyes,Grey eyes,Grey hair", "ars almal,nijisanji,Blue eyes,White hair", "sukoya kana,nijisanji,Grey hair,Pink eyes",
-      "takamiya rion,nijisanji,Blonde hair,purple eyes", "tsukino mito,nijisanji,Black hair,Blue eyes","luis cammy,nijisanji,Blonde hair,Red eyes",
-      "lize helesta,nijisanji,Multicolored hair,Purple eyes", "koshimizu toru, nijisanji,Purple eyes,Blue hair", "machita chima,nijisanji,Yellow eyes,Light brown hair",
-      "sango suo,nijisanji,Blue eyes,Pink hair", "elu,nijisanji,Gradient eyes,Grey hair","kaburaki roco,nijisanji,Blonde hair,Green eyes"
-    ],
-    "default_item": "None"
+      "type": "selector",
+      "items": [
+          "shiina yuika,nijisanji,",
+          "shishido akari,nijisanji,",
+          "rindou mikoto,nijisanji,",
+          "amamiya kokoro,nijisanji",
+          "ienaga mugi,nijisanji",
+          "Sakura Ritsuki,nijisanji",
+          "Yotsuha umise,nijisanji",
+          "Dola,nijisanji",
+          "hoshikawa sara,nijisanji",
+          "sister claire,nijisanji",
+          "higuchi kaede,nijisanji,",
+          "lain paterson,nijisanji",
+          "inui toko,nijisanji",
+          "nui sociere,nijisanji",
+          "furen e lustario,nijisanji",
+          "shizuka rin,nijisanji",
+          "moira,nijisanji",
+          "kuramochi meruto,nijisanji",
+          "matukai mao,nijisanji",
+          "ruri shioriha,nijisanji",
+          "ange katrina,nijisanji",
+          "fuyuki hakase,nijisanji",
+          "saku sasaki,nijisanji",
+          "salome hyakumantenbara,nijisanji",
+          "ponto nei,nijisanji",
+          "chigusa nishizono,nijisanji",
+          "karuta yamagami,nijisanji",
+          "honma himawari,nijisanji",
+          "sophia valentine,nijisanji",
+          "fumino tamaki,nijisanji",
+          "fumi,nijisanji",
+          "rika igarashi,nijisanji",
+          "ratna petit,nijisanji",
+          "makaino ririmu,nijisanji",
+          "yorumi rena,nijisanji",
+          "ishigami nozomi,nijisanji",
+          "ars almal,nijisanji",
+          "sukoya kana,nijisanji",
+          "takamiya rion,nijisanji",
+          "tsukino mito,nijisanji",
+          "luis cammy,nijisanji",
+          "lize helesta,nijisanji",
+          "koshimizu toru, nijisanji",
+          "machita chima,nijisanji",
+          "sango suo,nijisanji",
+          "elu,nijisanji",
+          "kaburaki roco,nijisanji"
+      ],
+      "default_item": "None"
   },
   "hololive": {
-    "type": "selector",
-    "items": [
-      "hoshimachi suisei,hololive,Blue eyes,Blue hair", "tokino sora,hololive,Brown hair,Blue eyes", "sakura miko,hololive,Green eyes,Pink hair",
-      "houshou marine,hololive,Red eye,Yellow eye,Red hair", "minato aqua,hololive,Purple eyes,Multicolored hair,Pink hair",
-      "gawr gura,hololive,Blue eyes", "oozora subaru,hololive", "murasaki shion,hololive,Grey hair", "ookami mio,hololive,Animal ears,Yellow eyes,Multicolored hair,Black hair",
-      "noel shirogane,hololive,Grey hair,Green eyes","natsuiro matsuri,hololive,Aqua eyes,Brown hair"
-    ],
-    "default_item": "None"
+      "type": "selector",
+      "items": [
+          "hoshimachi suisei,hololive",
+          "tokino sora,hololive",
+          "sakura miko,hololive",
+          "houshou marine,hololive",
+          "minato aqua,hololive",
+          "gawr gura,hololive",
+          "oozora subaru,hololive",
+          "murasaki shion,hololive",
+          "ookami mio,hololive",
+          "noel shirogane,hololive",
+          "natsuiro matsuri,hololive"
+      ],
+      "default_item": "None"
   },
   "idolmaster": {
       "type": "selector",
       "items": [
-        "mayuzumi fuyuko (idolmaster),Black hair", "Komiya Kaho (idolmaster),Red hair,Red eyes", "nanakusa nichika (idolmaster),Green hair,Green eyes",
-        "morino rinze (idolmaster),Blue hair,Red eyes","fukuyama mai (idolmaster),Black hair,loli,Child,aged down",
-        "tanaka mamimi (idolmaster),Purple hair,Purple eyes", "higuchi madoka (idolmaster),Purple eyes,Brown hair", "akagi miria (idolmaster),Black hair,loli,Child,aged down",
-        "ichihara nina (idolmaster),Brown hair,Brown eyes, loli,Child,aged down", "jougasaki rika (idolmaster),Blonde hair,Green eyes,loli,Child,aged down",
-        "honda mio (idolmaster),Brown hair, Brown eyes", "yumemi riamu (idolmaster),Multicolored hair,Pink hair,", "fukumaru koito (idolmaster),Blue hair,Purple eyes,loli,Child,aged down",
-        "sonoda chiyoko (idolmaster),Brown hair,Red eyes", "hachimiya meguru (idolmaster),Yellow hair,Blue eyes","mika jougasaki(idolmaster),Pink hair,",
-        "sato shin(idolmaster),Blonde hair,Green eyes", "kogane tsukioka(idolmaster),Brown hair,Brown eyes", "tenka osaki(idolmaster),Red hair,Brown eyes,"
+          "mayuzumi fuyuko, (idolmaster)",
+          "Komiya Kaho, (idolmaster)",
+          "nanakusa nichika, (idolmaster)",
+          "morino rinze, (idolmaster)",
+          "fukuyama mai, (idolmaster)",
+          "tanaka mamimi, (idolmaster)",
+          "higuchi madoka, (idolmaster)",
+          "akagi miria, (idolmaster)",
+          "ichihara nina, (idolmaster)",
+          "jougasaki rika, (idolmaster)",
+          "honda mio, (idolmaster)",
+          "yumemi riamu, (idolmaster),",
+          "fukumaru koito, (idolmaster)",
+          "sonoda chiyoko, (idolmaster)",
+          "hachimiya meguru, (idolmaster)",
+          "mika jougasaki(idolmaster),",
+          "sato shin(idolmaster)",
+          "kogane tsukioka(idolmaster)",
+          "tenka osaki(idolmaster),"
       ],
       "default_item": "None"
   },
   "AnimeCharacter": {
       "type": "selector",
       "items": [
-        "yunyun (konosuba),Brown hair,Red eyes", "Jouga Maya (Is the Order a Rabbit?),Blue hair,Yellow eyes,loli,Child,aged down", "nekomusume (gegege no kitarou 6),Purple hair,Yellow eyes",
-        "kokkoro (princess connect!),White hair,Purple eyes,loli,Child,aged down", "anya forger(spy x family),Pink hair,Green eyes,loli,Child,aged down", "Makima(Chainsaw Man),Red hair,ringed eyes",
-        "yamato (one piece),Multicolored hair,Blue hair,Green hair,White hair,Orange eyes,", "akimoto katherine reiko(Kochikame),Blonde hair,Brown eyes",
-        "fujiwara chika,Pink hair,Blue eyes", "uzaki hana,Grey hair,Blue eyes", "musume (yuunama),Purple skin,Purple hair,black sclera,loli,Child,aged down", 
-        "misogi (princess connect!),Orange hair,Orange eyes, loli,Child,aged down","sakura futaba(persona5),Orange hair,Purple eyes","2b (nier:automata),White hair,Blindfold",
-        "hestia (danmachi),Black hair,Blue eyes", "Android 18 (Dragon Ball),Blonde hair,Blue eyes", "Minamoto Shizuka (Doraemon),Black hair,Black eyes,loli,Child,aged down",
-        "Galko (Oshiete! Galko-chan),Blonde hair,Blue eyes", "keke tang (Love Live! Superstar!!),Grey hair, Blue eyes", "yanagi uzaki,Grey hair,hair over eyes,covered eyes",
-        "kanna kamui, light purple hair,Grey hair,Multicolored hair,Blue eyes,loli,Child,aged down", "yuni(princess connect!),Orange hair,Purple eyes,loli,Child,aged down",
-        "Komi Shouko (Komi Can't Communicate),Purple hair,Purple eyes", "Shuuko Komi (Komi Can't Communicate),Milf,Purple hair,Purple eyes",
-        "pecorine (princess connect!),Orange hair,Blue eyes", "karyl (princess connect!),Black hair,Green eyes", "chloe (princess connect!),Blonde hair,Purple eyes",
-        "nishikigi chisato(lycoris recoil),Blonde hair,Red eyes", "nagatoro hayase,Black hair,Brown eyes", "inoue orihime (Bleach),Orange hair,Grey eyes",
-        "toga himiko,Blonde hair,Yellow eyes", "uzaki tsuki,Milf,Grey hair,Closed eyes", "tsunade (naruto),Milf,Blonde hair,Brown eyes", "takimoto hifumi (new game!),Purple hair, Blue eyes"
+          "yunyun, (konosuba)",
+          "Jouga Maya, (Is the Order a Rabbit?),",
+          "nekomusume, (gegege no kitarou 6)",
+          "kokkoro, (princess connect!)",
+          "anya forger, (spy x family)",
+          "Makima, (Chainsaw Man)",
+          "yamato, (one piece),",
+          "akimoto katherine reiko, (Kochikame)",
+          "fujiwara chika",
+          "uzaki hana",
+          "musume, (yuunama)",
+          "misogi, (princess connect!)",
+          "sakura futaba, (persona5)",
+          "2b, (nier:automata)",
+          "hestia, (danmachi)",
+          "Android 18, (Dragon Ball)",
+          "Minamoto Shizuka, (Doraemon)",
+          "Galko, (Oshiete! Galko-chan)",
+          "keke tang, (Love Live! Superstar!!)",
+          "yanagi uzaki",
+          "kanna kamui,",
+          "yuni, (princess connect!)",
+          "Komi Shouko, (Komi Can't Communicate)",
+          "Shuuko Komi, (Komi Can't Communicate)",
+          "pecorine, (princess connect!)",
+          "karyl, (princess connect!)",
+          "chloe, (princess connect!)",
+          "nishikigi chisato, (lycoris recoil)",
+          "nagatoro hayase",
+          "inoue orihime, (Bleach)",
+          "toga himiko",
+          "uzaki tsuki",
+          "tsunade, (naruto)",
+          "takimoto hifumi, (new game!)"
       ],
       "default_item": "None"
   },
-  "Play": {
+  "Play_select": {
       "type": "selector",
       "items": [
           "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri,Penis", "Paizuri,Penis,blowjob", 
@@ -72,6 +153,16 @@
           "X-ray,cross-section,uterus", "vacuum fellatio", "Spanking", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg"
       ],
       "default_item": "None"
+  },
+  "Play_Random": {
+      "type": "category_generator",
+      "pool": [
+          "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri,Penis", "Paizuri,Penis,blowjob", 
+          "sex, Back", "sex, woman on top", "sex, supright straddle", "sex, anal", "gangbang", "facial,cum", "cum,bukkake", "cum in mouth",
+          "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
+          "Milking machines", "nursing handjob", "show off nipple", "Fingering", "suspended congress,ass grab", "Blow job,Deepthroat","Sex,Doggy style",
+          "X-ray,cross-section,uterus", "vacuum fellatio", "Spanking", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg"
+      ]
   },
   "composition": {
       "type": "category_generator",
@@ -187,7 +278,7 @@
   "ORG_Age": {
     "type": "category_generator",
     "pool": [
-      "Toddlercon","Infant","loli","Child","MILF","Mature"
+      "loli,Child","MILF","Mature","Young","Teenager"
     ]
   },
   "ORG_Breasts": {
