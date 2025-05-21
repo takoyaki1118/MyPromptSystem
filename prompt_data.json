@@ -2,7 +2,7 @@
   "Tag": {
       "type": "selector",
       "items": [
-          "virtual youtuber",
+          "vvirtual youtuber",
           "((moaning,Japanese sound effects only,big Sound effects,spoken Sound effects))",
           "((3D,3DModel,Cel Shading,3D render,anime render))"
       ],
@@ -146,23 +146,23 @@
   "Play_select": {
       "type": "selector",
       "items": [
-          "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri,Penis", "Paizuri,Penis,blowjob", 
-          "sex, Back", "sex, woman on top", "sex, supright straddle", "sex, anal", "gangbang", "facial,cum", "cum,bukkake", "cum in mouth",
+          "Blowjob,,fellatio,Penis", "masturbation,dildo,Vaginal,solo", "handjob,Penis", "footjob,Penis", "licking penis,tongue out", "paizuri,Penis,Nipple", "Paizuri,Penis,blowjob,tongue out", 
+          "sex, Back,Penis,Vaginal,anus", "sex, woman on top,Penis,Vaginal", "sex, supright straddle,Penis,Vaginal", "sex, anal, Penis", "gangbang,Penis,", "facial,cum", "cum,bukkake", "cum in mouth",
           "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
-          "Milking machines", "nursing handjob", "show off nipple", "Fingering", "suspended congress,ass grab", "Blow job,Deepthroat","Sex,Doggy style",
-          "X-ray,cross-section,uterus", "vacuum fellatio", "Spanking", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg"
+          "Milking machines,Breast,Nipple", "nursing handjob,Breast,Penis", "Clothes, show off nipple", "Fingering,Pussy,Vaginal", "SEX, suspended congress,ass grab", "Blow job,Deepthroat,Penis","Sex,Doggy style",
+          "X-ray,cross-section,uterus,Penis,sex,Vaginal", "vacuum fellatio,Penis", "Spanking, ass,", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg,Cum in pussy"
       ],
       "default_item": "None"
   },
   "Play_Random": {
       "type": "category_generator",
       "pool": [
-          "Blowjob", "masturbation, dildo", "handjob", "footjob", "fellatio", "licking penis", "paizuri,Penis", "Paizuri,Penis,blowjob", 
-          "sex, Back", "sex, woman on top", "sex, supright straddle", "sex, anal", "gangbang", "facial,cum", "cum,bukkake", "cum in mouth",
+          "Blowjob,,fellatio,Penis", "masturbation,dildo,Vaginal,solo", "handjob,Penis", "footjob,Penis", "licking penis,tongue out", "paizuri,Penis,Nipple", "Paizuri,Penis,blowjob,tongue out", 
+          "sex, Back,Penis,Vaginal,anus", "sex, woman on top,Penis,Vaginal", "sex, supright straddle,Penis,Vaginal", "sex, anal, Penis", "gangbang,Penis,", "facial,cum", "cum,bukkake", "cum in mouth",
           "cum on breast", "cum in pussy", "cum in ass", "cum on feet", "cum on body, excessive cum", "Breast milk", "Breast grab", "Spread pussy", "pregnant",
-          "Milking machines", "nursing handjob", "show off nipple", "Fingering", "suspended congress,ass grab", "Blow job,Deepthroat","Sex,Doggy style",
-          "X-ray,cross-section,uterus", "vacuum fellatio", "Spanking", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg"
-      ]
+          "Milking machines,Breast,Nipple", "nursing handjob,Breast,Penis", "Clothes, show off nipple", "Fingering,Pussy,Vaginal", "SEX, suspended congress,ass grab", "Blow job,Deepthroat,Penis","Sex,Doggy style",
+          "X-ray,cross-section,uterus,Penis,sex,Vaginal", "vacuum fellatio,Penis", "Spanking, ass,", "Kiss, Tongue out", "lactation", "fertilization, sperm cell, ovum, sperm meets egg,Cum in pussy"
+     ]
   },
   "composition": {
       "type": "category_generator",
