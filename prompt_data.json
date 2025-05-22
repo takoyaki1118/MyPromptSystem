@@ -2,13 +2,14 @@
   "Tag": {
       "type": "selector",
       "items": [
-          "vvirtual youtuber",
-          "((moaning,Japanese sound effects only,big Sound effects,spoken Sound effects))",
+          "virtual youtuber",
+          "moaning,sound effects only,Sound effects,spoken Sound effects ,motion lines, motion blur, twitching, afterimage",
+          "lineart,monochrome,greyscale",
           "((3D,3DModel,Cel Shading,3D render,anime render))"
       ],
       "default_item": "None"
   },
-  "nijisanji": {
+  "nijisanji_Selector": {
       "type": "selector",
       "items": [
           "shiina yuika,nijisanji,",
@@ -61,7 +62,7 @@
       ],
       "default_item": "None"
   },
-  "hololive": {
+  "hololive_Selector": {
       "type": "selector",
       "items": [
           "hoshimachi suisei,hololive",
@@ -78,7 +79,7 @@
       ],
       "default_item": "None"
   },
-  "idolmaster": {
+  "idolmaster_Selector": {
       "type": "selector",
       "items": [
           "mayuzumi fuyuko, (idolmaster)",
@@ -103,7 +104,7 @@
       ],
       "default_item": "None"
   },
-  "AnimeCharacter": {
+  "AnimeCharacter_Selector": {
       "type": "selector",
       "items": [
           "yunyun, (konosuba)",
@@ -142,6 +143,137 @@
           "takimoto hifumi, (new game!)"
       ],
       "default_item": "None"
+  },
+  "nijisanji_random": {
+      "type": "category_generator",
+      "pool": [
+          "shiina yuika,nijisanji,",
+          "shishido akari,nijisanji,",
+          "rindou mikoto,nijisanji,",
+          "amamiya kokoro,nijisanji",
+          "ienaga mugi,nijisanji",
+          "Sakura Ritsuki,nijisanji",
+          "Yotsuha umise,nijisanji",
+          "Dola,nijisanji",
+          "hoshikawa sara,nijisanji",
+          "sister claire,nijisanji",
+          "higuchi kaede,nijisanji,",
+          "lain paterson,nijisanji",
+          "inui toko,nijisanji",
+          "nui sociere,nijisanji",
+          "furen e lustario,nijisanji",
+          "shizuka rin,nijisanji",
+          "moira,nijisanji",
+          "kuramochi meruto,nijisanji",
+          "matukai mao,nijisanji",
+          "ruri shioriha,nijisanji",
+          "ange katrina,nijisanji",
+          "fuyuki hakase,nijisanji",
+          "saku sasaki,nijisanji",
+          "salome hyakumantenbara,nijisanji",
+          "ponto nei,nijisanji",
+          "chigusa nishizono,nijisanji",
+          "karuta yamagami,nijisanji",
+          "honma himawari,nijisanji",
+          "sophia valentine,nijisanji",
+          "fumino tamaki,nijisanji",
+          "fumi,nijisanji",
+          "rika igarashi,nijisanji",
+          "ratna petit,nijisanji",
+          "makaino ririmu,nijisanji",
+          "yorumi rena,nijisanji",
+          "ishigami nozomi,nijisanji",
+          "ars almal,nijisanji",
+          "sukoya kana,nijisanji",
+          "takamiya rion,nijisanji",
+          "tsukino mito,nijisanji",
+          "luis cammy,nijisanji",
+          "lize helesta,nijisanji",
+          "koshimizu toru, nijisanji",
+          "machita chima,nijisanji",
+          "sango suo,nijisanji",
+          "elu,nijisanji",
+          "kaburaki roco,nijisanji"
+      ]
+  },
+  "hololive_random": {
+      "type": "category_generator",
+      "pool": [
+          "hoshimachi suisei,hololive",
+          "tokino sora,hololive",
+          "sakura miko,hololive",
+          "houshou marine,hololive",
+          "minato aqua,hololive",
+          "gawr gura,hololive",
+          "oozora subaru,hololive",
+          "murasaki shion,hololive",
+          "ookami mio,hololive",
+          "noel shirogane,hololive",
+          "natsuiro matsuri,hololive"
+      ]
+  },
+  "idolmaster_random": {
+      "type": "category_generator",
+      "pool": [
+          "mayuzumi fuyuko, (idolmaster)",
+          "Komiya Kaho, (idolmaster)",
+          "nanakusa nichika, (idolmaster)",
+          "morino rinze, (idolmaster)",
+          "fukuyama mai, (idolmaster)",
+          "tanaka mamimi, (idolmaster)",
+          "higuchi madoka, (idolmaster)",
+          "akagi miria, (idolmaster)",
+          "ichihara nina, (idolmaster)",
+          "jougasaki rika, (idolmaster)",
+          "honda mio, (idolmaster)",
+          "yumemi riamu, (idolmaster),",
+          "fukumaru koito, (idolmaster)",
+          "sonoda chiyoko, (idolmaster)",
+          "hachimiya meguru, (idolmaster)",
+          "mika jougasaki(idolmaster),",
+          "sato shin(idolmaster)",
+          "kogane tsukioka(idolmaster)",
+          "tenka osaki(idolmaster),"
+      ]
+  },
+  "AnimeCharacter_random": {
+      "type": "category_generator",
+      "pool": [
+          "yunyun, (konosuba)",
+          "Jouga Maya, (Is the Order a Rabbit?),",
+          "nekomusume, (gegege no kitarou 6)",
+          "kokkoro, (princess connect!)",
+          "anya forger, (spy x family)",
+          "Makima, (Chainsaw Man)",
+          "yamato, (one piece),",
+          "akimoto katherine reiko, (Kochikame)",
+          "fujiwara chika",
+          "uzaki hana",
+          "musume, (yuunama)",
+          "misogi, (princess connect!)",
+          "sakura futaba, (persona5)",
+          "2b, (nier:automata)",
+          "hestia, (danmachi)",
+          "Android 18, (Dragon Ball)",
+          "Minamoto Shizuka, (Doraemon)",
+          "Galko, (Oshiete! Galko-chan)",
+          "keke tang, (Love Live! Superstar!!)",
+          "yanagi uzaki",
+          "kanna kamui,",
+          "yuni, (princess connect!)",
+          "Komi Shouko, (Komi Can't Communicate)",
+          "Shuuko Komi, (Komi Can't Communicate)",
+          "pecorine, (princess connect!)",
+          "karyl, (princess connect!)",
+          "chloe, (princess connect!)",
+          "nishikigi chisato, (lycoris recoil)",
+          "nagatoro hayase",
+          "inoue orihime, (Bleach)",
+          "toga himiko",
+          "uzaki tsuki",
+          "tsunade, (naruto)",
+          "takimoto hifumi, (new game!)"
+      ]
   },
   "Play_select": {
       "type": "selector",
