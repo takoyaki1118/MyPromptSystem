@@ -4,7 +4,9 @@
       "items": [
           "virtual youtuber",
           "moaning,sound effects only,Sound effects,spoken Sound effects ,motion lines, motion blur, twitching, afterimage",
-          "lineart,monochrome,greyscale",
+          "motion lines, motion blur, twitching, afterimage",
+          "monochrome,greyscale",
+          "lineart",
           "((3D,3DModel,Cel Shading,3D render,anime render))"
       ],
       "default_item": "None"
