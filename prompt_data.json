@@ -344,15 +344,15 @@
   "Loli": {
     "type": "category_generator",
     "pool": [
-        "fukuyama mai (idolmaster),Black hair","makaino ririmu,nijisanji,Red eyes","ichihara nina (idolmaster),Brown hair,Brown eyes","akagi miria (idolmaster),Black hair",
-        "jougasaki rika (idolmaster),Blonde hair,Green eyes","fukumaru koito (idolmaster),Blue hair,Purple eyes","Jouga Maya (Is the Order a Rabbit?),Blue hair,Yellow eyes",
-        "kokkoro (princess connect!),White hair,Purple eyes","anya forger(spy x family),Pink hair,Green eyes","misogi (princess connect!),Orange hair,Orange eyes",
-        "musume (yuunama),Purple skin,Purple hair,black sclera","Minamoto Shizuka (Doraemon),Black hair,Black eyes","kanna kamui, light purple hair,Grey hair,Multicolored hair,Blue eyes",
-        "yuni(princess connect!),Orange hair,Purple eyes", "kafuu chino (Is the Order a Rabbit?),Blue eyes,Blue hair", "hinatsuru ai(Ryuuou no Oshigoto!),Brown hair,Blue eyes",
-        "komekko(konosuba),Brown hair,Red eyes,star hair ornament", "suzukaze aoba(NEW GAME!),light purple hair,Purple eyes", "kurosu aroma(pripara),Brown hair,Blue eyes",
-        "Laala manaka(pripara),Purple hair,green eyes", "Mirai momoyama(Kiratto PriChan),Pink hair", "Sara midorikawa(Kiratto PriChan),Green hair, Purple eyes",
-        "moegi emo(Kiratto PriChan),Yellow hair,Blue eyes", "KiracCHU(Kiratto PriChan),Pink hair, Yellow eyes", "Melpan(Kiratto PriChan),Blue hair, Purple eyes",
-        "Rabbily(Kiratto PriChan),Green hair,Red eyes"
+        "fukuyama mai (idolmaster)","makaino ririmu,nijisanji","ichihara nina (idolmaster)","akagi miria (idolmaster)",
+        "jougasaki rika (idolmaster)","fukumaru koito (idolmaster)","Jouga Maya (Is the Order a Rabbit?)",
+        "kokkoro (princess connect!)","anya forger(spy x family)","misogi (princess connect!)",
+        "musume (yuunama),","Minamoto Shizuka (Doraemon)","kanna kamui",
+        "yuni(princess connect!)", "kafuu chino (Is the Order a Rabbit?)", "hinatsuru ai(Ryuuou no Oshigoto!)",
+        "komekko(konosuba)", "suzukaze aoba(NEW GAME!)", "kurosu aroma(pripara)",
+        "Laala manaka(pripara)", "Mirai momoyama(Kiratto PriChan)", "Sara midorikawa(Kiratto PriChan)",
+        "moegi emo(Kiratto PriChan)", "KiracCHU(Kiratto PriChan)", "Melpan(Kiratto PriChan)",
+        "Rabbily(Kiratto PriChan)"
     ]
   },
   "Loli_only": {
@@ -364,7 +364,7 @@
   "Loli_Option": {
     "type": "category_generator",
     "pool": [
-        "jojifuku","randoseru","idol costume,ruffle skirt,high thigh socks","mesugaki","princess dress","jiraikei, pink shirt,ruffle shirt, black mini skirt, high thigh socks",
+        "jojifuku","randoseru","idol costume,ruffle skirt,high thigh socks","mesugaki","princess dress","jiraikei,ruffle shirt, mini skirt, high thigh socks",
         "Huge breasts","tanned skin"
     ]
   },
