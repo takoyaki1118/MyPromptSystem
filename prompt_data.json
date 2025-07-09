@@ -27,7 +27,12 @@
           "(Big Text Moaning, Big Text Spoken Sound Effects)",
           "Moaning, Spoken Sound Effects",
           "2koma, comic, multiple views, speech bubble",
-          "Faceless male"
+          "Faceless male",
+          "thick paint, watercolor",
+          "1wa0, pij",
+          "breath, shiny skin, sweat, Wet, fog",
+          "breath, shiny skin, sweat, fog",
+          "hard shadows"
       ],
       "default_item": "None"
   },
@@ -494,7 +499,7 @@
   "Background": {
       "type": "category_generator",
       "pool": [
-          "Simple Background", "White Background", "Grey Background", "pink Background", "Hotel Room,Bed", "Bed", "tatami,Futon", "Toilet"
+          "Hotel Room,Bed", "Bed", "tatami,Futon", "Toilet"
       ]
   },
   "Preset": {
