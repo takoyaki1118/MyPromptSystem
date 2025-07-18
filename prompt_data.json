@@ -34,7 +34,12 @@
           "breath, shiny skin, sweat, fog",
           "hard shadows",
           "ugly Male",
-          "Big Penis"
+          "Big Penis",
+          "Black solid eyes",
+          "Clothes",
+          "female (animal)",
+          "animal female, furry female, ((animal))",
+          "Fat Human male"
       ],
       "default_item": "None"
   },
@@ -169,6 +174,40 @@
           "uzaki tsuki",
           "tsunade, Naruto",
           "takimoto hifumi, New Game!"
+      ],
+      "default_item": "None"
+  },
+  "kemono_Selector": {
+      "type": "selector",
+      "items": [
+          "Pokémon,Pikachu",
+          "Pokémon,Vulpix",
+          "Pokémon,Clefairy",
+          "Pokémon,Ponyta",
+          "Pokémon,Slowpoke",
+          "Pokémon,Lickitung",
+          "Pokémon,Chansey",
+          "Pokémon,Jynx",
+          "Pokémon,Eevee",
+          "Pokémon,Espeon",
+          "Pokémon,Umbreon",
+          "Pokémon,Miltank",
+          "Pokémon,Ralts",
+          "Pokémon,Kirlia",
+          "Pokémon,Gardevoir",
+          "Pokémon,Azurill",
+          "Pokémon,Mawile",
+          "Pokémon,Milotic",
+          "Pokémon,Lopunny",
+          "Pokémon,Glaceon",
+          "Pokémon,Froslass",
+          "Pokémon,Mesprit",
+          "Pokémon,Zorua",
+          "Pokémon,Zoroark",
+          "Pokémon,Braixen",
+          "Pokémon,Goodra",
+          "Pokémon,Sylveon",
+          "Pokémon,Meowscarada"
       ],
       "default_item": "None"
   },
