@@ -341,6 +341,39 @@
           "takimoto hifumi, New Game!"
       ]
   },
+  "kemono_random": {
+      "type": "category_generator",
+      "pool": [
+          "Pokémon,Pikachu",
+          "Pokémon,Vulpix",
+          "Pokémon,Clefairy",
+          "Pokémon,Ponyta",
+          "Pokémon,Slowpoke",
+          "Pokémon,Lickitung",
+          "Pokémon,Chansey",
+          "Pokémon,Jynx",
+          "Pokémon,Eevee",
+          "Pokémon,Espeon",
+          "Pokémon,Umbreon",
+          "Pokémon,Miltank",
+          "Pokémon,Ralts",
+          "Pokémon,Kirlia",
+          "Pokémon,Gardevoir",
+          "Pokémon,Azurill",
+          "Pokémon,Mawile",
+          "Pokémon,Milotic",
+          "Pokémon,Lopunny",
+          "Pokémon,Glaceon",
+          "Pokémon,Froslass",
+          "Pokémon,Mesprit",
+          "Pokémon,Zorua",
+          "Pokémon,Zoroark",
+          "Pokémon,Braixen",
+          "Pokémon,Goodra",
+          "Pokémon,Sylveon",
+          "Pokémon,Meowscarada"
+      ]
+  },
   "Play_select": {
       "type": "selector",
       "items": [
