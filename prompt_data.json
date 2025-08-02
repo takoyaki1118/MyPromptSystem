@@ -39,7 +39,8 @@
           "Clothes",
           "female (animal)",
           "animal female, furry female, ((animal))",
-          "Fat Human male"
+          "Fat Human male",
+          "Skin head,dark brown skin,BBC,Big Black Cock"
       ],
       "default_item": "None"
   },
@@ -1874,6 +1875,39 @@
       "Lotion,Oil",
       "Masturbation",
       "Dildo"
+      ],
+      "default_item": "None"
+  },
+    "BBC_select": {
+      "type": "selector",
+      "items": [
+      "Strangulation, suffocation,neck grab",
+      "Strangulation, suffocation,neck grab,tears",
+      "Head Grab,Deep Throat,Blow job",
+      "Head Grab,Deep Throat,Blow job,cum in mouth",
+      "Head Grab,Deep Throat,Blow job,cum in mouth,tears",
+      "SEX,back,hair grab",
+      "SEX,doggy style,hair grab",
+      "SEX,hold down,Neck Grab,tears", 
+      "Deep Throat,Blow job,lying, Neck Grab,tears", 
+      "sex,Full Nelson,tears",
+      "sex,Full Nelson",
+      "sex,chokehold,tears",
+      "sex,face-to-face,standing split",
+      "Penis on face,hidden eyes",
+      "Penis on face",
+      "sex,Full Nelson,anus,anus sex",
+      "sex,HangingLeg",
+      "sex,Standing,face-to-face, hanging legs, neck grab,lift up",
+      "sex,hanging legs, neck grab,lift up",
+      "gangbang,cum",
+      "on bed, bedroom, purple light,brothel,love hotel, unworn clothes,   indoors,  bed,  clothes removed, pillow, window,  after sex, (stained sheets) ,used tissue",
+      "naked dogeza,unworn clothes, unworn",
+      "naked dogeza",
+      "wheelbarrow pose,sex from behind, legs up, torso grab, holding legs, on ground",
+      "pilemating, mating press",
+      "dripping pussy juice from behind, solo, blush, skirt, standing, underwear, panties, ass, sweat, shoes, pussy, socks, looking back, from behind, clothes lift, kneehighs, anus, pussy juice, no panties, skirt lift, bent over, kneepits, panties around one leg, tiptoes",
+      "from above , penis,kneeling,saliva, half-closed eyes, looking up, Sucking testicles, penis on face"
       ],
       "default_item": "None"
   }
