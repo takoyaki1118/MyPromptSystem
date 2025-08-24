@@ -10,6 +10,7 @@ try:
     # Import base classes and combiner node
     from .base_nodes import SelectorNodeBase, BaseCategoryNode, PROMPT_DATA
     from .combiner_node import PromptCombinerNode
+    from .simple_combiner import SimpleTextCombinerNode # <<< この行を追加
 
     NODE_CLASS_MAPPINGS = {}
     NODE_DISPLAY_NAME_MAPPINGS = {}
@@ -108,13 +109,17 @@ try:
                 combiner_optional_inputs[combiner_input_name] = ("STRING", {"forceInput": False, "default": ""})
 
 
-    # --- Combiner Node Setup ---
+# --- Combiner Node Setup ---
     # Set the dynamically generated optional inputs for the combiner node
     PromptCombinerNode.SetOptionalInputs(combiner_optional_inputs)
 
     # Register the combiner node
     NODE_CLASS_MAPPINGS["PromptCombinerNode"] = PromptCombinerNode
     NODE_DISPLAY_NAME_MAPPINGS["PromptCombinerNode"] = "Prompt Combiner"
+
+    # --- Register the new Simple Combiner Node ---  # <<< ここから追加
+    NODE_CLASS_MAPPINGS["SimpleTextCombinerNode"] = SimpleTextCombinerNode
+    NODE_DISPLAY_NAME_MAPPINGS["SimpleTextCombinerNode"] = "Simple Text Combiner" # <<< ここまで追加
 
     # Export the mappings
     __all__ = ['NODE_CLASS_MAPPINGS', 'NODE_DISPLAY_NAME_MAPPINGS']
