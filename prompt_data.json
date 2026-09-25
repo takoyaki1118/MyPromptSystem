@@ -395,7 +395,6 @@
       "Breast grab, Nipple",
       "Breast grab, lactation, Nipple",
       "Spread leg, Spread pussy",
-      "pregnant, Nipple,belly Touch,solo",
       "pregnant, Nipple,side-by-side",
       "pregnant, Nipple,pregnant belly,sex",
       "nursing handjob,breast sucking,Penis",
@@ -409,16 +408,9 @@
       "fertilization, sperm cell, ovum, sperm meets egg,Cum in pussy,Penis,SEX",
       "penis in Nipple penetration, dutch angle, squatting, standing male,arms behind head,upper body",
       "upside-down,testicles,Deepthroat,lying,on back,Standing male,from side,on table,  looking up",
-      "cervix prolapse, vaginal prolapse,solo",
-      "solo,hip focus, object insertion, anal object insertion, anal beads,all fours",
-      "lactation, projectile lactation, milking machine,solo",
-      "sex machine, vaginal object insertion, anal object penetration,  dildo, sex toy, pussy, vaginal, anal,solo",
-      "white panties, sex toy,thick thighs, thigh strap, standing, vibrating line,Spread leg,under clothes Toy,Love juice,vibrating,solo,furrowed brow",
       "Standing male,sex from behind, from front,leaning forward, breasts on glass,breast press,bathroom",
       "Ass grab,Standing, Panties,from behind, side-by-side,back,hidden face",
       "dildo riding, dildo, spread legs, squatting, pussy juice, object insertion",
-      "solo, clothes lift, knees up high, bed, lying, ,restrained ,chained arm, arm up, dildo, black eye mask, object insertion",
-      "solo, Micro bikini, mirror selfie, holding phone",
       "neck grab, Breast grab, tears, clenched teeth,drooling,Nipple",
       "male sitting , sofa, squatting girl, upright straddle girl, male sitting on sofa, Nude , hip grab"
     ]
@@ -428,8 +420,6 @@
     "pool": [
       "open mouth, tongue out, cum,penis",
       "handjob, cum on body,penis",
-      "solo,Spread leg,pussy,cum",
-      "solo,Spread leg,cum,Spread pussy",
       "penis, cum, rimjob, anilingus,Tongue out,POV,handjob,leg up",
       "Uterus, cervix,ahegao,sex,cum in pussy",
       "penis on head,  erection, testicles,  saliva, nipples,  cum, cum drip, testicle sucking",
@@ -437,12 +427,10 @@
       "penis,deepthroat,cum,",
       "suspended congress, ass grab, standing, hug, leg lock, breast press, arms around neck, face-to-face, Uterus, cervix,ahegao,sex,cum in pussy",
       "cum,Paizuri,Nipple,penis",
-      "penis, bukkake, cum, excessive cum, cum on body,",
-      "cervix prolapse, vaginal prolapse,solo,cum",
-      "cum, breasts, solo, nipple,  after rape, cum in pussy, empty eyes, pussy, cum on body, cum in mouth,  after sex, lying, cumdrop,  navel, on back, cum on breasts, torn clothes, after vaginal"
+      "penis, bukkake, cum, excessive cum, cum on body,"
     ]
   },
-  "Softcore": {
+  "Solo_Softcore": {
     "type": "category_generator",
     "pool": [
       "gym uniform, from behind,  solo focus, from below, adjusting panties",
@@ -458,7 +446,8 @@
       "from behind, leaning forward, panty pull",
       "ok sign in front of mouth,open mouth, tongue out",
       "standing split, full body",
-      "shushing, show off nipple, Clothes Open"
+      "shushing, show off nipple, Clothes Open",
+      "leaning forward, solo"
     ]
   },
   "Vertical Softcore": {
@@ -641,6 +630,33 @@
       "tentacle pit, all fours, hip focus, tentacle in anus, pussy"
     ]
   },
+  "Solo_Play": {
+    "type": "category_generator",
+    "pool": [
+      "pregnant, Nipple,belly Touch,solo",
+      "solo,Spread leg,pussy,cum",
+      "solo,Spread leg,cum,Spread pussy",
+      "cervix prolapse, vaginal prolapse,solo,cum",
+      "cum, breasts, solo, nipple,  after rape, cum in pussy, empty eyes, pussy, cum on body, cum in mouth,  after sex, lying, cumdrop,  navel, on back, cum on breasts, torn clothes, after vaginal",
+      "solo, clothes lift, knees up high, bed, lying, ,restrained ,chained arm, arm up, dildo, black eye mask, object insertion",
+      "solo, Micro bikini, mirror selfie, holding phone",
+      "cervix prolapse, vaginal prolapse,solo",
+      "solo,hip focus, object insertion, anal object insertion, anal beads,all fours",
+      "lactation, projectile lactation, milking machine,solo",
+      "sex machine, vaginal object insertion, anal object penetration,  dildo, sex toy, pussy, vaginal, anal,solo",
+      "white panties, sex toy,thick thighs, thigh strap, standing, vibrating line,Spread leg,under clothes Toy,Love juice,vibrating,solo,furrowed brow",
+      "solo, looking up, tongue out, open mouth, saliva, cum on mouth, mouth pull, half-closed  one eyes",
+      "cum, solo, nipples,  cum in pussy,  pussy, cum on body, after sex, navel, cum on breasts, after vaginal, blindfold, ball gag, vaginal, spread leg",
+      "solo, looking up, tongue out, open mouth, saliva, cum on mouth, mouth pull, half-closed  one eyes",
+      "cum, solo, nipples,  cum in pussy,  pussy, cum on body, after sex, navel,  cum on breasts, after vaginal ,blindfold, ball_gag,  leg up, arm behind back, restrained ,chained leg",
+      "solo, spread leg, fingering,toilet, sitting",
+      "solo, spread leg, fingering,toilet, sitting, Panties Aside",
+      "solo, bra, clothes lift, mirror selfie, holding phone",
+      "solo, bra, clothes lift, selfie",
+      "solo, toilet, sex toy, anus, cum on body, object insertion, after sex, tongue out, after vaginal, cum, open mouth, legs up, tiles, folded",
+      "solo, covering her eyes with one hand,  (covering own eyes), holding a condom in one's mouth,Bed, W-Sitting, peace sign ,from above angle,v"
+    ]
+  },
   "ALL_Play_select": {
     "type": "selector",
     "items": [
@@ -672,7 +688,6 @@
       "Breast grab, Nipple",
       "Breast grab, lactation, Nipple",
       "Spread leg, Spread pussy",
-      "pregnant, Nipple,belly Touch,solo",
       "pregnant, Nipple,side-by-side",
       "pregnant, Nipple,pregnant belly,sex",
       "nursing handjob,breast sucking,Penis",
@@ -686,22 +701,13 @@
       "fertilization, sperm cell, ovum, sperm meets egg,Cum in pussy,Penis,SEX",
       "penis in Nipple penetration, dutch angle, squatting, standing male,arms behind head,upper body",
       "upside-down,testicles,Deepthroat,lying,on back,Standing male,from side,on table,  looking up",
-      "cervix prolapse, vaginal prolapse,solo",
-      "solo,hip focus, object insertion, anal object insertion, anal beads,all fours",
-      "lactation, projectile lactation, milking machine,solo",
-      "sex machine, vaginal object insertion, anal object penetration,  dildo, sex toy, pussy, vaginal, anal,solo",
-      "white panties, sex toy,thick thighs, thigh strap, standing, vibrating line,Spread leg,under clothes Toy,Love juice,vibrating,solo,furrowed brow",
       "Standing male,sex from behind, from front,leaning forward, breasts on glass,breast press,bathroom",
       "Ass grab,Standing, Panties,from behind, side-by-side,back,hidden face",
       "dildo riding, dildo, spread legs, squatting, pussy juice, object insertion",
-      "solo, clothes lift, knees up high, bed, lying, ,restrained ,chained arm, arm up, dildo, black eye mask, object insertion",
-      "solo, Micro bikini, mirror selfie, holding phone",
       "neck grab, Breast grab, tears, clenched teeth,drooling,Nipple",
       "male sitting , sofa, squatting girl, upright straddle girl, male sitting on sofa, Nude , hip grab",
       "open mouth, tongue out, cum,penis",
       "handjob, cum on body,penis",
-      "solo,Spread leg,pussy,cum",
-      "solo,Spread leg,cum,Spread pussy",
       "penis, cum, rimjob, anilingus,Tongue out,POV,handjob,leg up",
       "Uterus, cervix,ahegao,sex,cum in pussy",
       "penis on head,  erection, testicles,  saliva, nipples,  cum, cum drip, testicle sucking",
@@ -710,8 +716,6 @@
       "suspended congress, ass grab, standing, hug, leg lock, breast press, arms around neck, face-to-face, Uterus, cervix,ahegao,sex,cum in pussy",
       "cum,Paizuri,Nipple,penis",
       "penis, bukkake, cum, excessive cum, cum on body,",
-      "cervix prolapse, vaginal prolapse,solo,cum",
-      "cum, breasts, solo, nipple,  after rape, cum in pussy, empty eyes, pussy, cum on body, cum in mouth,  after sex, lying, cumdrop,  navel, on back, cum on breasts, torn clothes, after vaginal",
       "all fours, legs spread, tentacles, tentacle pit, multiple tentacles, tentacles around thighs, tentacles on waist, tentacle penetration, vaginal, anal, pussy juice",
       "tentacle pit, upside down, lifted high by tentacles, dangling in the air, held by tentacles",
       "tentacle pit, sweat, nipple penetration,Breast grab Tentacles,upper body",
