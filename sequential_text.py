@@ -1,6 +1,7 @@
+import random
+
 class SequentialTextNode:
-    def __init__(self):
-        self.index = 0
+    current_index = 0
 
     @classmethod
     def INPUT_TYPES(s):
@@ -19,15 +20,23 @@ class SequentialTextNode:
     RETURN_TYPES = ("STRING",)
     RETURN_NAMES = ("text",)
     FUNCTION = "get_next_text"
-    CATEGORY = "MyPromptSystem/utils"  # お好みのカテゴリに調整可能です
+    CATEGORY = "MyPromptSystem/utils"
+
+    @classmethod
+    def IS_CHANGED(s, *args, **kwargs):
+        # 毎回異なる乱数を返すことで、ComfyUIのキャッシュを強制的に無効化し、毎回ノードを実行させる
+        return random.random()
 
     def get_next_text(self, text_1, text_2, text_3, text_4, reset_counter=False):
         texts = [text_1, text_2, text_3, text_4]
         
         if reset_counter:
-            self.index = 0
+            SequentialTextNode.current_index = 0
             
-        current_text = texts[self.index % len(texts)]
-        self.index += 1
+        # 現在のインデックスからテキストを取得
+        current_text = texts[SequentialTextNode.current_index % len(texts)]
+        
+        # 次回のためにインデックスを進める
+        SequentialTextNode.current_index += 1
         
         return (current_text,)
